@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>15131</key>
+	<array>
+		<string>After Science Park Drive</string>
+		<string>1.2925696523516643</string>
+		<string>103.78445967684432</string>
+		<string>B02</string>
+	</array>
+	<key>15139</key>
+	<array>
+		<string>Before Science Park Drive</string>
+		<string>1.2924382575493263</string>
+		<string>103.78454550753462</string>
+		<string>None</string>
+	</array>
+	<key>16161</key>
+	<array>
+		<string>Office of Estate and Development</string>
+		<string>1.301013765255546</string>
+		<string>103.77365037451715</string>
+		<string>B08</string>
+	</array>
+	<key>16169</key>
+	<array>
+		<string>NUS Raffles Hall</string>
+		<string>1.3010191282906671</string>
+		<string>103.7726981903169</string>
+		<string>B07</string>
+	</array>
+	<key>16171</key>
+	<array>
+		<string>Yusof Ishak House</string>
+		<string>1.2988256459765393</string>
+		<string>103.77426996479855</string>
+		<string>B06</string>
+	</array>
+	<key>16179</key>
+	<array>
+		<string>Opposite Yusof Ishak House</string>
+		<string>1.298925</string>
+		<string>103.774141</string>
+		<string>B05</string>
+	</array>
+	<key>16181</key>
+	<array>
+		<string>Ctrl Lib, Kent Ridge Crescent</string>
+		<string>1.2966858945889965</string>
+		<string>103.77267280324932</string>
+		<string>B04</string>
+	</array>
+	<key>16189</key>
+	<array>
+		<string>Computer Ctr, Kent Ridge Crescent</string>
+		<string>1.297121</string>
+		<string>103.772666</string>
+		<string>B03</string>
+	</array>
+	<key>16191</key>
+	<array>
+		<string>Opp Nus Fac Of Architect, Kent Ridge Crescent</string>
+		<string>1.2960450107129409</string>
+		<string>103.77027759059911</string>
+		<string>None</string>
+	</array>
+	<key>16199</key>
+	<array>
+		<string>Nus Fac Of Design </string>
+		<string>1.2962863477564337</string>
+		<string>103.77136656745911</string>
+		<string>None</string>
+	</array>
+	<key>18221</key>
+	<array>
+		<string>National University Hospital</string>
+		<string>1.2962782008018245</string>
+		<string>103.78346725950924</string>
+		<string>B01</string>
+	</array>
+	<key>18239</key>
+	<array>
+		<string>Opposite National University Hospital</string>
+		<string>1.2967635563434212</string>
+		<string>103.78314271221844</string>
+		<string>B02</string>
+	</array>
+	<key>18301</key>
+	<array>
+		<string>LT 29</string>
+		<string>1.297413</string>
+		<string>103.78112</string>
+		<string>B03</string>
+	</array>
+	<key>18309</key>
+	<array>
+		<string>School of Computing 1</string>
+		<string>1.2974661150288322</string>
+		<string>103.78069117317936</string>
+		<string>B04</string>
+	</array>
+	<key>18311</key>
+	<array>
+		<string>University Hall</string>
+		<string>1.2971604215789987</string>
+		<string>103.77887531767654</string>
+		<string>B05</string>
+	</array>
+	<key>18319</key>
+	<array>
+		<string>Opposite University Hall</string>
+		<string>1.2974580704648278</string>
+		<string>103.7780921126442</string>
+		<string>B06</string>
+	</array>
+	<key>18321</key>
+	<array>
+		<string>Opposite Staff Club</string>
+		<string>1.2988578242149502</string>
+		<string>103.7756191159328</string>
+		<string>B07</string>
+	</array>
+	<key>18329</key>
+	<array>
+		<string>Staff Club</string>
+		<string>1.298942</string>
+		<string>103.776115</string>
+		<string>B08</string>
+	</array>
+	<key>18331</key>
+	<array>
+		<string>Kent Ridge Stn</string>
+		<string>1.29478</string>
+		<string>103.784382</string>
+		<string>Mrt</string>
+	</array>
+	<key>18339</key>
+	<array>
+		<string>Opp Kent Ridge Stn</string>
+		<string>1.294882</string>
+		<string>103.784591</string>
+		<string>Mrt</string>
+	</array>
+	<key>BL2</key>
+	<array>
+		<string>Opp Hon Sui Sen Memorial Library</string>
+		<string>1.2933982439074994</string>
+		<string>103.77527311096796</string>
+		<string>B02</string>
+	</array>
+	<key>BL3</key>
+	<array>
+		<string>BIZ 2</string>
+		<string>1.2935323201855928</string>
+		<string>103.77520337353357</string>
+		<string>B03</string>
+	</array>
+	<key>CD1</key>
+	<array>
+		<string>Carpark 13@BIZ</string>
+		<string>1.294335719056965</string>
+		<string>103.77381202813332</string>
+		<string>B01</string>
+	</array>
+	<key>DER2</key>
+	<array>
+		<string>Temporary bus stop (after campus entrance at Bukit Timah Road)</string>
+		<string>1.321764603115605</string>
+		<string>103.81969853888346</string>
+		<string>None</string>
+	</array>
+	<key>DER3</key>
+	<array>
+		<string>Oei Tiong Ham Building</string>
+		<string>1.319429019585297</string>
+		<string>103.81818040858121</string>
+		<string>None</string>
+	</array>
+	<key>ED1</key>
+	<array>
+		<string>E3A</string>
+		<string>1.30009668608266</string>
+		<string>103.77178087483418</string>
+		<string>B01</string>
+	</array>
+	<key>KRD1</key>
+	<array>
+		<string>Temasek Hall Bus</string>
+		<string>1.2931058092794</string>
+		<string>103.77180512236778</string>
+		<string>B01</string>
+	</array>
+	<key>KRD2</key>
+	<array>
+		<string>AS7 Bus</string>
+		<string>1.293446063010423</string>
+		<string>103.77187848413082</string>
+		<string>B02</string>
+	</array>
+	<key>KRD3</key>
+	<array>
+		<string>Eusoff Hall Bus</string>
+		<string>1.293704830215925</string>
+		<string>103.77065673792467</string>
+		<string>B03</string>
+	</array>
+	<key>KRD4</key>
+	<array>
+		<string>LT13, FASS</string>
+		<string>1.2952868889778264</string>
+		<string>103.7707167589302</string>
+		<string>B04</string>
+	</array>
+	<key>KRD5</key>
+	<array>
+		<string>Opp LT13, FASS</string>
+		<string>1.2952681183122954</string>
+		<string>103.7706201994059</string>
+		<string>B05</string>
+	</array>
+	<key>KV0</key>
+	<array>
+		<string>Kent Vale Terminal</string>
+		<string>1.301716322758961</string>
+		<string>103.76959219227825</string>
+		<string>None</string>
+	</array>
+	<key>PGP0</key>
+	<array>
+		<string>PGP Terminal</string>
+		<string>1.2923470856417416</string>
+		<string>103.78008499394073</string>
+		<string>None</string>
+	</array>
+	<key>PGP1</key>
+	<array>
+		<string>Between House 14 and 15</string>
+		<string>1.2931515435372793</string>
+		<string>103.77778902302393</string>
+		<string>B01</string>
+	</array>
+	<key>PGP2</key>
+	<array>
+		<string>House 7</string>
+		<string>1.29324271541601</string>
+		<string>103.77781852732309</string>
+		<string>B02</string>
+	</array>
+	<key>PGP3</key>
+	<array>
+		<string>House 12</string>
+		<string>1.293749523741098</string>
+		<string>103.77673759709005</string>
+		<string>B03</string>
+	</array>
+	<key>PGP4</key>
+	<array>
+		<string>Opp House 12</string>
+		<string>1.2937575683168578</string>
+		<string>103.77697363148336</string>
+		<string>B04</string>
+	</array>
+	<key>UT</key>
+	<array>
+		<string>Utown</string>
+		<string>1.303758</string>
+		<string>103.774621</string>
+		<string>None</string>
+	</array>
+</dict>
+</plist>

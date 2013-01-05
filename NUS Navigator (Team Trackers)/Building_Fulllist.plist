@@ -1,0 +1,3401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AS1</key>
+	<array>
+		<string>AS1</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>AS1</string>
+	</array>
+	<key>AS2</key>
+	<array>
+		<string>AS2</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>AS2</string>
+	</array>
+	<key>AS3</key>
+	<array>
+		<string>AS3</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>AS3</string>
+	</array>
+	<key>AS4</key>
+	<array>
+		<string>AS4</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>AS4</string>
+	</array>
+	<key>AS5</key>
+	<array>
+		<string>AS5</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>AS5</string>
+	</array>
+	<key>AS6</key>
+	<array>
+		<string>AS6</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>AS6</string>
+	</array>
+	<key>AS7</key>
+	<array>
+		<string>AS7</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>AS7</string>
+	</array>
+	<key>AXS Stations (Block ADM)</key>
+	<array>
+		<string>AXS Stations (Block ADM)</string>
+		<string></string>
+		<string>Money</string>
+		<string>Block ADM</string>
+	</array>
+	<key>AXS Stations (LT27)</key>
+	<array>
+		<string>AXS Stations (LT27)</string>
+		<string></string>
+		<string>Money</string>
+		<string>Lecture Theatre 27</string>
+	</array>
+	<key>Alcove Asian Restaurant Bar</key>
+	<array>
+		<string>Alcove Asian Restaurant Bar</string>
+		<string></string>
+		<string>Food</string>
+		<string>University Cultural Centre</string>
+	</array>
+	<key>Adaptive Computing Research Lab</key>
+	<array>
+		<string>Adaptive Computing Research Lab</string>
+		<string>acrl</string>
+		<string>Faculty</string>
+		<string>COM1</string>
+	</array>
+	<key>Add Value Machine (Block ADM)</key>
+	<array>
+		<string>Add Value Machine (Block ADM)</string>
+		<string>ezlink</string>
+		<string>Money</string>
+		<string>Block ADM</string>
+	</array>
+	<key>Algorithms Research Lab</key>
+	<array>
+		<string>Algorithms Research Lab</string>
+		<string>arl</string>
+		<string>Faculty</string>
+		<string>COM1</string>
+	</array>
+	<key>Alice Lee Centre for Nursing Studies</key>
+	<array>
+		<string>Alice Lee Centre for Nursing Studies</string>
+		<string>cns</string>
+		<string>Faculty</string>
+		<string>E3A</string>
+	</array>
+	<key>Animal Holding Unit</key>
+	<array>
+		<string>Animal Holding Unit</string>
+		<string>ahu</string>
+		<string></string>
+		<string>MD1</string>
+	</array>
+	<key>Antenatal Diagnostic Centre</key>
+	<array>
+		<string>Antenatal Diagnostic Centre</string>
+		<string>adc</string>
+		<string></string>
+		<string>MD4</string>
+	</array>
+	<key>Architectural Studios</key>
+	<array>
+		<string>Architectural Studios</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>SDE3</string>
+	</array>
+	<key>Asia Research Institute (ARI)</key>
+	<array>
+		<string>Asia Research Institute (ARI)</string>
+		<string>ari</string>
+		<string></string>
+		<string>Tower Block, BTC</string>
+	</array>
+	<key>Association of Pacific Rim Universities</key>
+	<array>
+		<string>Association of Pacific Rim Universities</string>
+		<string>apru</string>
+		<string></string>
+		<string>Shaw Foundation Alumni House</string>
+	</array>
+	<key>BIZ1</key>
+	<array>
+		<string>BIZ1</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>BIZ1</string>
+	</array>
+	<key>BIZ2</key>
+	<array>
+		<string>BIZ2</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>BIZ2</string>
+	</array>
+	<key>Bachelor of Technology Programme</key>
+	<array>
+		<string>Bachelor of Technology Programme</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>EA</string>
+	</array>
+	<key>Bio-Sciences Complex</key>
+	<array>
+		<string>Bio-Sciences Complex</string>
+		<string>bsc</string>
+		<string></string>
+		<string>S16</string>
+	</array>
+	<key>Bioinformatics Centre</key>
+	<array>
+		<string>Bioinformatics Centre</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>MD7</string>
+	</array>
+	<key>Bukit Timah Campus Management Office</key>
+	<array>
+		<string>Bukit Timah Campus Management Office</string>
+		<string></string>
+		<string>Management</string>
+		<string>Block B, BTC</string>
+	</array>
+	<key>Burger King</key>
+	<array>
+		<string>Burger King</string>
+		<string></string>
+		<string>Food</string>
+		<string>The Deck</string>
+	</array>
+	<key>Business School (Dean&apos;s Office)</key>
+	<array>
+		<string>Business School (Dean&apos;s Office)</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>BIZ1</string>
+	</array>
+	<key>COM1</key>
+	<array>
+		<string>COM1</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>COM1</string>
+	</array>
+	<key>COM2</key>
+	<array>
+		<string>COM2</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>COM2</string>
+	</array>
+	<key>Cancer Science Institute of Singapore</key>
+	<array>
+		<string>Cancer Science Institute of Singapore</string>
+		<string>csi</string>
+		<string></string>
+		<string>Centre for Life Sciences</string>
+	</array>
+	<key>Central Library</key>
+	<array>
+		<string>Central Library</string>
+		<string>cl</string>
+		<string>Library</string>
+		<string>Central Library</string>
+	</array>
+	<key>Central Square Canteen</key>
+	<array>
+		<string>Central Square Canteen</string>
+		<string>yih canteen</string>
+		<string>Canteen</string>
+		<string>Central Square</string>
+	</array>
+	<key>Centre for Advanced Chemical Engineering</key>
+	<array>
+		<string>Centre for Advanced Chemical Engineering</string>
+		<string>cace</string>
+		<string></string>
+		<string>E5</string>
+	</array>
+	<key>Centre for Advanced Computations in Engineering Science (ACES)</key>
+	<array>
+		<string>Centre for Advanced Computations in Engineering Science (ACES)</string>
+		<string>caces</string>
+		<string></string>
+		<string>EA</string>
+	</array>
+	<key>Centre for Biomedical Ethics</key>
+	<array>
+		<string>Centre for Biomedical Ethics</string>
+		<string>cbe</string>
+		<string></string>
+		<string>MD11</string>
+	</array>
+	<key>Centre for Construction Materials and Technology</key>
+	<array>
+		<string>Centre for Construction Materials and Technology</string>
+		<string>caces</string>
+		<string></string>
+		<string>E1A</string>
+	</array>
+	<key>Centre for Design Technology</key>
+	<array>
+		<string>Centre for Design Technology</string>
+		<string>cdt</string>
+		<string></string>
+		<string>E4</string>
+	</array>
+	<key>Centre for Development of Teaching </key>
+	<array>
+		<string>Centre for Development of Teaching </string>
+		<string>cdtl</string>
+		<string></string>
+		<string>Central Library Annexe</string>
+	</array>
+	<key>Centre for English Language Communication</key>
+	<array>
+		<string>Centre for English Language Communication</string>
+		<string>celc</string>
+		<string></string>
+		<string>CELC</string>
+	</array>
+	<key>Centre for Environmental and Occupational Health Research</key>
+	<array>
+		<string>Centre for Environmental and Occupational Health Research</string>
+		<string>ceohr</string>
+		<string></string>
+		<string>MD3</string>
+	</array>
+	<key>Centre for Industrial Mathematics</key>
+	<array>
+		<string>Centre for Industrial Mathematics</string>
+		<string>cim</string>
+		<string></string>
+		<string>S14</string>
+	</array>
+	<key>Centre for Instructional Technology (Central Library Annexe)</key>
+	<array>
+		<string>Centre for Instructional Technology (Central Library Annexe)</string>
+		<string>cit</string>
+		<string></string>
+		<string>Central Library Annexe</string>
+	</array>
+	<key>Centre for Instructional Technology (Computer Centre)</key>
+	<array>
+		<string>Centre for Instructional Technology (Computer Centre)</string>
+		<string>cit</string>
+		<string></string>
+		<string>Computer Centre</string>
+	</array>
+	<key>Centre for Instructional Technology (House 11)</key>
+	<array>
+		<string>Centre for Instructional Technology (House 11)</string>
+		<string>cit</string>
+		<string></string>
+		<string>House 11</string>
+	</array>
+	<key>Centre for Integrated Circuit Failure Analysis and Reliability</key>
+	<array>
+		<string>Centre for Integrated Circuit Failure Analysis and Reliability</string>
+		<string>cicfar</string>
+		<string></string>
+		<string>E3</string>
+	</array>
+	<key>Centre for Intelligent Control</key>
+	<array>
+		<string>Centre for Intelligent Control</string>
+		<string>cic</string>
+		<string></string>
+		<string>EA</string>
+	</array>
+	<key>Centre for Intelligent Products and Manufacturing Systems</key>
+	<array>
+		<string>Centre for Intelligent Products and Manufacturing Systems</string>
+		<string>cipms</string>
+		<string></string>
+		<string>EA</string>
+	</array>
+	<key>Centre for International Law (CIL)</key>
+	<array>
+		<string>Centre for International Law (CIL)</string>
+		<string>cil</string>
+		<string></string>
+		<string>Block B, BTC</string>
+	</array>
+	<key>Centre for Ion Beam Applications</key>
+	<array>
+		<string>Centre for Ion Beam Applications</string>
+		<string>ciba</string>
+		<string></string>
+		<string>S7</string>
+	</array>
+	<key>Centre for Language Studies</key>
+	<array>
+		<string>Centre for Language Studies</string>
+		<string>cls</string>
+		<string>Faculty</string>
+		<string>AS4</string>
+	</array>
+	<key>Centre for Maritime Studies (CMS)</key>
+	<array>
+		<string>Centre for Maritime Studies (CMS)</string>
+		<string>cms</string>
+		<string></string>
+		<string>Centre for Maritime Studies</string>
+	</array>
+	<key>Centre for Microwave and Radio Frequency</key>
+	<array>
+		<string>Centre for Microwave and Radio Frequency</string>
+		<string>cmrf</string>
+		<string></string>
+		<string>E4</string>
+	</array>
+	<key>Centre for Molecular Epidemiology</key>
+	<array>
+		<string>Centre for Molecular Epidemiology</string>
+		<string>cme</string>
+		<string></string>
+		<string>MD3</string>
+	</array>
+	<key>Centre for Offshore Research &amp; Engineering</key>
+	<array>
+		<string>Centre for Offshore Research &amp; Engineering</string>
+		<string>core</string>
+		<string></string>
+		<string>E1A</string>
+	</array>
+	<key>Centre for Optoelectronics</key>
+	<array>
+		<string>Centre for Optoelectronics</string>
+		<string>co</string>
+		<string></string>
+		<string>E3</string>
+	</array>
+	<key>Centre for Power Electronics</key>
+	<array>
+		<string>Centre for Power Electronics</string>
+		<string>cpe</string>
+		<string></string>
+		<string>E3</string>
+	</array>
+	<key>Centre for Project Management </key>
+	<array>
+		<string>Centre for Project Management </string>
+		<string>cpmcl</string>
+		<string></string>
+		<string>SDE2</string>
+	</array>
+	<key>Centre for Quantum Technologies</key>
+	<array>
+		<string>Centre for Quantum Technologies</string>
+		<string>cqt</string>
+		<string></string>
+		<string>S15</string>
+	</array>
+	<key>Centre for Real Estate Studies</key>
+	<array>
+		<string>Centre for Real Estate Studies</string>
+		<string>cres</string>
+		<string></string>
+		<string>SDE1</string>
+	</array>
+	<key>Centre for Remote Imaging, Sensing and Processing (CRISP)</key>
+	<array>
+		<string>Centre for Remote Imaging, Sensing and Processing (CRISP)</string>
+		<string>crisp</string>
+		<string></string>
+		<string>S17</string>
+	</array>
+	<key>Centre for Soft-ground Engineering</key>
+	<array>
+		<string>Centre for Soft-ground Engineering</string>
+		<string>cse</string>
+		<string></string>
+		<string>E1</string>
+	</array>
+	<key>Centre for Superconducting and Magnetic Materials</key>
+	<array>
+		<string>Centre for Superconducting and Magnetic Materials</string>
+		<string>csmm</string>
+		<string></string>
+		<string>S12</string>
+	</array>
+	<key>Centre for Total Building Performance</key>
+	<array>
+		<string>Centre for Total Building Performance</string>
+		<string>ctbp</string>
+		<string></string>
+		<string>SDE1</string>
+	</array>
+	<key>Centre for Transportation Research</key>
+	<array>
+		<string>Centre for Transportation Research</string>
+		<string>ctr</string>
+		<string></string>
+		<string>E1A</string>
+	</array>
+	<key>Centre for Wavelets Approximation &amp; Information Processing</key>
+	<array>
+		<string>Centre for Wavelets Approximation &amp; Information Processing</string>
+		<string>cwaip</string>
+		<string></string>
+		<string>S13</string>
+	</array>
+	<key>Centre for e-Business</key>
+	<array>
+		<string>Centre for e-Business</string>
+		<string>ceb</string>
+		<string></string>
+		<string>COM2</string>
+	</array>
+	<key>Centre for Advanced Studies in Architecture</key>
+	<array>
+		<string>Centre for Advanced Studies in Architecture</string>
+		<string>casa</string>
+		<string>Faculty</string>
+		<string>SDE1</string>
+	</array>
+	<key>Chemical, Molecular and Materials Analysis Centre</key>
+	<array>
+		<string>Chemical, Molecular and Materials Analysis Centre</string>
+		<string>cmmac</string>
+		<string></string>
+		<string>S8</string>
+	</array>
+	<key>Citibank ATM (Blk ADM, 4th floor, Walkway linking AS1 and AS6)</key>
+	<array>
+		<string>Citibank ATM (Blk ADM, 4th floor, Walkway linking AS1 and AS6)</string>
+		<string></string>
+		<string>Money</string>
+		<string>Block ADM</string>
+	</array>
+	<key>Clinic for Human Reproduction</key>
+	<array>
+		<string>Clinic for Human Reproduction</string>
+		<string>chr</string>
+		<string></string>
+		<string>NUH</string>
+	</array>
+	<key>Clinical Research Centre</key>
+	<array>
+		<string>Clinical Research Centre</string>
+		<string>crc</string>
+		<string></string>
+		<string>MD11</string>
+	</array>
+	<key>Coffee Club Express</key>
+	<array>
+		<string>Coffee Club Express</string>
+		<string></string>
+		<string>Food</string>
+		<string>Coffee Club Express</string>
+	</array>
+	<key>Coffee Grounds</key>
+	<array>
+		<string>Coffee Grounds</string>
+		<string></string>
+		<string>Food</string>
+		<string>Coffee Grounds</string>
+	</array>
+	<key>Communications </key>
+	<array>
+		<string>Communications </string>
+		<string>cnmp</string>
+		<string>Faculty</string>
+		<string>AS6</string>
+	</array>
+	<key>Computational Biology Research Lab</key>
+	<array>
+		<string>Computational Biology Research Lab</string>
+		<string>cbrl</string>
+		<string>Faculty</string>
+		<string>COM1</string>
+	</array>
+	<key>Computational Linguistics Research Lab</key>
+	<array>
+		<string>Computational Linguistics Research Lab</string>
+		<string>clrl</string>
+		<string>Faculty</string>
+		<string>AS6</string>
+	</array>
+	<key>Computer Centre</key>
+	<array>
+		<string>Computer Centre</string>
+		<string>cc</string>
+		<string>Admin</string>
+		<string>Computer Centre</string>
+	</array>
+	<key>Computer Vision Research Lab</key>
+	<array>
+		<string>Computer Vision Research Lab</string>
+		<string>cvrl</string>
+		<string>Faculty</string>
+		<string>AS6</string>
+	</array>
+	<key>DBS / POSBank ATMs (Block ADM)</key>
+	<array>
+		<string>DBS / POSBank ATMs (Block ADM)</string>
+		<string></string>
+		<string>Money</string>
+		<string>Block ADM</string>
+	</array>
+	<key>DBS / POSBank ATMs (LT27)</key>
+	<array>
+		<string>DBS / POSBank ATMs (LT27)</string>
+		<string></string>
+		<string>Money</string>
+		<string>Lecture Theatre 27</string>
+	</array>
+	<key>DBS / POSBank ATMs (Yusof Ishak House)</key>
+	<array>
+		<string>DBS / POSBank ATMs (Yusof Ishak House)</string>
+		<string></string>
+		<string>Money</string>
+		<string>Yusof Ishak House</string>
+	</array>
+	<key>DBS / POSBank Cash Deposit Machine (Yusof Ishak House)</key>
+	<array>
+		<string>DBS / POSBank Cash Deposit Machine (Yusof Ishak House)</string>
+		<string></string>
+		<string>Money</string>
+		<string>Yusof Ishak House</string>
+	</array>
+	<key>Data Storage Institute</key>
+	<array>
+		<string>Data Storage Institute</string>
+		<string>dsi</string>
+		<string></string>
+		<string>Data Storage Institute</string>
+	</array>
+	<key>Database Research Lab 1</key>
+	<array>
+		<string>Database Research Lab 1</string>
+		<string>drl1</string>
+		<string>Faculty</string>
+		<string>COM1</string>
+	</array>
+	<key>Database Research Lab 2</key>
+	<array>
+		<string>Database Research Lab 2</string>
+		<string>drl2</string>
+		<string>Faculty</string>
+		<string>COM1</string>
+	</array>
+	<key>Dental Centre</key>
+	<array>
+		<string>Dental Centre</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>NUH</string>
+	</array>
+	<key>Department of Accounting</key>
+	<array>
+		<string>Department of Accounting</string>
+		<string>accounting</string>
+		<string>Faculty</string>
+		<string>BIZ1</string>
+	</array>
+	<key>Department of Anaesthesia</key>
+	<array>
+		<string>Department of Anaesthesia</string>
+		<string>anaesthesia</string>
+		<string>Faculty</string>
+		<string>NUH</string>
+	</array>
+	<key>Department of Anatomy</key>
+	<array>
+		<string>Department of Anatomy</string>
+		<string>anatomy</string>
+		<string>Faculty</string>
+		<string>MD10</string>
+	</array>
+	<key>Department of Architecture</key>
+	<array>
+		<string>Department of Architecture</string>
+		<string>architecture</string>
+		<string>Faculty</string>
+		<string>SDE1</string>
+	</array>
+	<key>Department of Biochemistry</key>
+	<array>
+		<string>Department of Biochemistry</string>
+		<string>biochemistry</string>
+		<string>Faculty</string>
+		<string>MD7</string>
+	</array>
+	<key>Department of Biochemistry (Annexe)</key>
+	<array>
+		<string>Department of Biochemistry (Annexe)</string>
+		<string>biochemistry</string>
+		<string>Faculty</string>
+		<string>MD4A</string>
+	</array>
+	<key>Department of Biological Sciences (S1)</key>
+	<array>
+		<string>Department of Biological Sciences (S1)</string>
+		<string>biological</string>
+		<string>Faculty</string>
+		<string>S1</string>
+	</array>
+	<key>Department of Biological Sciences (S1A)</key>
+	<array>
+		<string>Department of Biological Sciences (S1A)</string>
+		<string>biological</string>
+		<string>Faculty</string>
+		<string>S1A</string>
+	</array>
+	<key>Department of Biological Sciences (S2)</key>
+	<array>
+		<string>Department of Biological Sciences (S2)</string>
+		<string>biological</string>
+		<string>Faculty</string>
+		<string>S2</string>
+	</array>
+	<key>Department of Biological Sciences (S3)</key>
+	<array>
+		<string>Department of Biological Sciences (S3)</string>
+		<string>biological</string>
+		<string>Faculty</string>
+		<string>S3</string>
+	</array>
+	<key>Department of Building</key>
+	<array>
+		<string>Department of Building</string>
+		<string>building</string>
+		<string>Faculty</string>
+		<string>SDE1</string>
+	</array>
+	<key>Department of Chemical &amp; Biomolecular Engineering</key>
+	<array>
+		<string>Department of Chemical &amp; Biomolecular Engineering</string>
+		<string>chemical biomolecular</string>
+		<string>Faculty</string>
+		<string>E5</string>
+	</array>
+	<key>Department of Chemistry (S3)</key>
+	<array>
+		<string>Department of Chemistry (S3)</string>
+		<string>chemistry</string>
+		<string>Faculty</string>
+		<string>S3</string>
+	</array>
+	<key>Department of Chemistry (S5)</key>
+	<array>
+		<string>Department of Chemistry (S5)</string>
+		<string>chemistry</string>
+		<string>Faculty</string>
+		<string>S5</string>
+	</array>
+	<key>Department of Chemistry (S7)</key>
+	<array>
+		<string>Department of Chemistry (S7)</string>
+		<string>chemistry</string>
+		<string>Faculty</string>
+		<string>S7</string>
+	</array>
+	<key>Department of Chemistry (S8)</key>
+	<array>
+		<string>Department of Chemistry (S8)</string>
+		<string>chemistry</string>
+		<string>Faculty</string>
+		<string>S8</string>
+	</array>
+	<key>Department of Chemistry (S9)</key>
+	<array>
+		<string>Department of Chemistry (S9)</string>
+		<string>chemistry</string>
+		<string>Faculty</string>
+		<string>S9</string>
+	</array>
+	<key>Department of Chinese Studies</key>
+	<array>
+		<string>Department of Chinese Studies</string>
+		<string>chinese studies</string>
+		<string>Faculty</string>
+		<string>AS7</string>
+	</array>
+	<key>Department of Civil Engineering</key>
+	<array>
+		<string>Department of Civil Engineering</string>
+		<string>civil engineering</string>
+		<string>Faculty</string>
+		<string>E1A</string>
+	</array>
+	<key>Department of Computer Science</key>
+	<array>
+		<string>Department of Computer Science</string>
+		<string>cs</string>
+		<string>Faculty</string>
+		<string>COM1</string>
+	</array>
+	<key>Department of Decision Sciences</key>
+	<array>
+		<string>Department of Decision Sciences</string>
+		<string>ds</string>
+		<string>Faculty</string>
+		<string>BIZ1</string>
+	</array>
+	<key>Department of Diagnostic Radiology</key>
+	<array>
+		<string>Department of Diagnostic Radiology</string>
+		<string>diagnostic radiology</string>
+		<string>Faculty</string>
+		<string>NUH</string>
+	</array>
+	<key>Department of Economics</key>
+	<array>
+		<string>Department of Economics</string>
+		<string>economics</string>
+		<string>Faculty</string>
+		<string>AS2</string>
+	</array>
+	<key>Department of Electrical &amp; Computer Engineering</key>
+	<array>
+		<string>Department of Electrical &amp; Computer Engineering</string>
+		<string>ece</string>
+		<string>Faculty</string>
+		<string>E4</string>
+	</array>
+	<key>Department of English Language &amp; Literature</key>
+	<array>
+		<string>Department of English Language &amp; Literature</string>
+		<string>ell</string>
+		<string>Faculty</string>
+		<string>AS5</string>
+	</array>
+	<key>Department of Epidemiology &amp; Public Health</key>
+	<array>
+		<string>Department of Epidemiology &amp; Public Health</string>
+		<string>eph</string>
+		<string>Faculty</string>
+		<string>MD3</string>
+	</array>
+	<key>Department of Finance</key>
+	<array>
+		<string>Department of Finance</string>
+		<string>finance</string>
+		<string>Faculty</string>
+		<string>BIZ1</string>
+	</array>
+	<key>Department of Geography</key>
+	<array>
+		<string>Department of Geography</string>
+		<string>geography</string>
+		<string>Faculty</string>
+		<string>AS2</string>
+	</array>
+	<key>Department of History</key>
+	<array>
+		<string>Department of History</string>
+		<string>history</string>
+		<string>Faculty</string>
+		<string>AS1</string>
+	</array>
+	<key>Department of Industrial &amp; Systems Engineering</key>
+	<array>
+		<string>Department of Industrial &amp; Systems Engineering</string>
+		<string>ise</string>
+		<string>Faculty</string>
+		<string>E1A</string>
+	</array>
+	<key>Department of Information Systems</key>
+	<array>
+		<string>Department of Information Systems</string>
+		<string>is</string>
+		<string>Faculty</string>
+		<string>COM2</string>
+	</array>
+	<key>Department of Japanese Studies</key>
+	<array>
+		<string>Department of Japanese Studies</string>
+		<string>japanese studies</string>
+		<string>Faculty</string>
+		<string>AS4</string>
+	</array>
+	<key>Department of Malay Studies</key>
+	<array>
+		<string>Department of Malay Studies</string>
+		<string>malay studies</string>
+		<string>Faculty</string>
+		<string>AS7</string>
+	</array>
+	<key>Department of Management &amp; Organisation</key>
+	<array>
+		<string>Department of Management &amp; Organisation</string>
+		<string>management organisation</string>
+		<string>Faculty</string>
+		<string>BIZ1</string>
+	</array>
+	<key>Department of Marketing</key>
+	<array>
+		<string>Department of Marketing</string>
+		<string>marketing</string>
+		<string>Faculty</string>
+		<string>BIZ1</string>
+	</array>
+	<key>Department of Materials Science &amp; Engineering</key>
+	<array>
+		<string>Department of Materials Science &amp; Engineering</string>
+		<string>mse</string>
+		<string>Faculty</string>
+		<string>E3A</string>
+	</array>
+	<key>Department of Mathematics (S14)</key>
+	<array>
+		<string>Department of Mathematics (S14)</string>
+		<string>mathematics</string>
+		<string>Faculty</string>
+		<string>S14</string>
+	</array>
+	<key>Department of Mathematics (S17)</key>
+	<array>
+		<string>Department of Mathematics (S17)</string>
+		<string>mathematics</string>
+		<string>Faculty</string>
+		<string>S17</string>
+	</array>
+	<key>Department of Mechanical Engineering</key>
+	<array>
+		<string>Department of Mechanical Engineering</string>
+		<string>me</string>
+		<string>Faculty</string>
+		<string>EA</string>
+	</array>
+	<key>Department of Medicine</key>
+	<array>
+		<string>Department of Medicine</string>
+		<string>medicine</string>
+		<string>Faculty</string>
+		<string>NUH</string>
+	</array>
+	<key>Department of Microbiology</key>
+	<array>
+		<string>Department of Microbiology</string>
+		<string>microbiology</string>
+		<string>Faculty</string>
+		<string>MD4</string>
+	</array>
+	<key>Department of Obstetrics &amp; Gynaecology</key>
+	<array>
+		<string>Department of Obstetrics &amp; Gynaecology</string>
+		<string>obstetrics gynaecology</string>
+		<string>Faculty</string>
+		<string>NUH</string>
+	</array>
+	<key>Department of Ophthalmology</key>
+	<array>
+		<string>Department of Ophthalmology</string>
+		<string>ophthalmology</string>
+		<string>Faculty</string>
+		<string>NUH</string>
+	</array>
+	<key>Department of Oral &amp; Maxillofacial Surgery</key>
+	<array>
+		<string>Department of Oral &amp; Maxillofacial Surgery</string>
+		<string>oral maxillofacial surgery</string>
+		<string>Faculty</string>
+		<string>Faculty of Dentistry</string>
+	</array>
+	<key>Department of Orthopaedic Surgery</key>
+	<array>
+		<string>Department of Orthopaedic Surgery</string>
+		<string>orthopaedic surgery</string>
+		<string>Faculty</string>
+		<string>NUH</string>
+	</array>
+	<key>Department of Otolaryngology</key>
+	<array>
+		<string>Department of Otolaryngology</string>
+		<string>otolaryngology</string>
+		<string>Faculty</string>
+		<string>NUH</string>
+	</array>
+	<key>Department of Paediatrics</key>
+	<array>
+		<string>Department of Paediatrics</string>
+		<string>paediatrics</string>
+		<string>Faculty</string>
+		<string>NUH</string>
+	</array>
+	<key>Department of Pathology</key>
+	<array>
+		<string>Department of Pathology</string>
+		<string>pathology</string>
+		<string>Faculty</string>
+		<string>NUH</string>
+	</array>
+	<key>Department of Pharmacology</key>
+	<array>
+		<string>Department of Pharmacology</string>
+		<string>pharmacology</string>
+		<string>Faculty</string>
+		<string>MD11</string>
+	</array>
+	<key>Department of Pharmacy (Annexe)</key>
+	<array>
+		<string>Department of Pharmacy (Annexe)</string>
+		<string>pharmacy</string>
+		<string>Faculty</string>
+		<string>S4A</string>
+	</array>
+	<key>Department of Pharmacy (S3)</key>
+	<array>
+		<string>Department of Pharmacy (S3)</string>
+		<string>pharmacy</string>
+		<string>Faculty</string>
+		<string>S3</string>
+	</array>
+	<key>Department of Pharmacy (S4)</key>
+	<array>
+		<string>Department of Pharmacy (S4)</string>
+		<string>pharmacy</string>
+		<string>Faculty</string>
+		<string>S4</string>
+	</array>
+	<key>Department of Philosophy</key>
+	<array>
+		<string>Department of Philosophy</string>
+		<string>philosophy</string>
+		<string>Faculty</string>
+		<string>AS3</string>
+	</array>
+	<key>Department of Physics (S11)</key>
+	<array>
+		<string>Department of Physics (S11)</string>
+		<string>physics</string>
+		<string>Faculty</string>
+		<string>S11</string>
+	</array>
+	<key>Department of Physics (S12)</key>
+	<array>
+		<string>Department of Physics (S12)</string>
+		<string>physics</string>
+		<string>Faculty</string>
+		<string>S11</string>
+	</array>
+	<key>Department of Physics (S13)</key>
+	<array>
+		<string>Department of Physics (S13)</string>
+		<string>physics</string>
+		<string>Faculty</string>
+		<string>S13</string>
+	</array>
+	<key>Department of Physics (S1A)</key>
+	<array>
+		<string>Department of Physics (S1A)</string>
+		<string>physics</string>
+		<string>Faculty</string>
+		<string>S1A</string>
+	</array>
+	<key>Department of Physics (S7)</key>
+	<array>
+		<string>Department of Physics (S7)</string>
+		<string>physics</string>
+		<string>Faculty</string>
+		<string>S7</string>
+	</array>
+	<key>Department of Physiology</key>
+	<array>
+		<string>Department of Physiology</string>
+		<string>physiology</string>
+		<string>Faculty</string>
+		<string>MD9</string>
+	</array>
+	<key>Department of Political Science</key>
+	<array>
+		<string>Department of Political Science</string>
+		<string>political science</string>
+		<string>Faculty</string>
+		<string>AS1</string>
+	</array>
+	<key>Department of Preventive Dentistry</key>
+	<array>
+		<string>Department of Preventive Dentistry</string>
+		<string>preventive dentistry</string>
+		<string>Faculty</string>
+		<string>Faculty of Dentistry</string>
+	</array>
+	<key>Department of Psychological Medicine</key>
+	<array>
+		<string>Department of Psychological Medicine</string>
+		<string>psychological medicine</string>
+		<string>Faculty</string>
+		<string>NUH</string>
+	</array>
+	<key>Department of Psychology</key>
+	<array>
+		<string>Department of Psychology</string>
+		<string>psychology</string>
+		<string>Faculty</string>
+		<string>AS4</string>
+	</array>
+	<key>Department of Real Estate</key>
+	<array>
+		<string>Department of Real Estate</string>
+		<string>real estate</string>
+		<string>Faculty</string>
+		<string>SDE1</string>
+	</array>
+	<key>Department of Restorative Dentistry</key>
+	<array>
+		<string>Department of Restorative Dentistry</string>
+		<string>restorative dentistry</string>
+		<string>Faculty</string>
+		<string>Faculty of Dentistry</string>
+	</array>
+	<key>Department of Social Work</key>
+	<array>
+		<string>Department of Social Work</string>
+		<string>social work</string>
+		<string>Faculty</string>
+		<string>AS3</string>
+	</array>
+	<key>Department of Sociology</key>
+	<array>
+		<string>Department of Sociology</string>
+		<string>sociology</string>
+		<string>Faculty</string>
+		<string>AS1</string>
+	</array>
+	<key>Department of Statistics &amp; Applied Probability</key>
+	<array>
+		<string>Department of Statistics &amp; Applied Probability</string>
+		<string>statistics applied probability</string>
+		<string>Faculty</string>
+		<string>S16</string>
+	</array>
+	<key>Department of Strategy </key>
+	<array>
+		<string>Department of Strategy </string>
+		<string>strategy policy</string>
+		<string>Faculty</string>
+		<string>BIZ1</string>
+	</array>
+	<key>Department of Surgery</key>
+	<array>
+		<string>Department of Surgery</string>
+		<string>surgery</string>
+		<string>Faculty</string>
+		<string>NUH</string>
+	</array>
+	<key>Design Incubation Centre</key>
+	<array>
+		<string>Design Incubation Centre</string>
+		<string>dic</string>
+		<string>Faculty</string>
+		<string>SDE2</string>
+	</array>
+	<key>Development Office</key>
+	<array>
+		<string>Development Office</string>
+		<string></string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Development Office (House 15)</key>
+	<array>
+		<string>Development Office (House 15)</string>
+		<string></string>
+		<string>Admin</string>
+		<string>House 15</string>
+	</array>
+	<key>Dilys Creation (Engineering)</key>
+	<array>
+		<string>Dilys Creation (Engineering)</string>
+		<string></string>
+		<string>Food</string>
+		<string>E4</string>
+	</array>
+	<key>Dilys Creation (Science)</key>
+	<array>
+		<string>Dilys Creation (Science)</string>
+		<string></string>
+		<string>Food</string>
+		<string>S16</string>
+	</array>
+	<key>Division of Bioengineering</key>
+	<array>
+		<string>Division of Bioengineering</string>
+		<string>bioengineering</string>
+		<string>Faculty</string>
+		<string>E3A</string>
+	</array>
+	<key>Division of Engineering Technology Management</key>
+	<array>
+		<string>Division of Engineering Technology Management</string>
+		<string>etm</string>
+		<string>Faculty</string>
+		<string>E3A</string>
+	</array>
+	<key>Division of Environmental Science &amp; Engineering</key>
+	<array>
+		<string>Division of Environmental Science &amp; Engineering</string>
+		<string>ese</string>
+		<string>Faculty</string>
+		<string>EA</string>
+	</array>
+	<key>Division of Graduate Dental Studies</key>
+	<array>
+		<string>Division of Graduate Dental Studies</string>
+		<string>graduate dental studies</string>
+		<string>Faculty</string>
+		<string>Faculty of Dentistry</string>
+	</array>
+	<key>Division of Graduate Medical Studies</key>
+	<array>
+		<string>Division of Graduate Medical Studies</string>
+		<string>graduate medical studies</string>
+		<string>Faculty</string>
+		<string>MD5</string>
+	</array>
+	<key>Division of Graduate Studies (School of Computing)</key>
+	<array>
+		<string>Division of Graduate Studies (School of Computing)</string>
+		<string>graduate studies</string>
+		<string>Faculty</string>
+		<string>COM1</string>
+	</array>
+	<key>Division of Research &amp; Graduate Studies (School of Design &amp; Environment)</key>
+	<array>
+		<string>Division of Research &amp; Graduate Studies (School of Design &amp; Environment)</string>
+		<string>research graduate studies</string>
+		<string>Faculty</string>
+		<string>SDE1</string>
+	</array>
+	<key>Division of Research (School of Computing)</key>
+	<array>
+		<string>Division of Research (School of Computing)</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>COM1</string>
+	</array>
+	<key>Division of Research &amp; Graduate Studies (Faculty of Arts &amp; Social Sciences)</key>
+	<array>
+		<string>Division of Research &amp; Graduate Studies (Faculty of Arts &amp; Social Sciences)</string>
+		<string>gsd</string>
+		<string>Faculty</string>
+		<string>AS7</string>
+	</array>
+	<key>Division of Research &amp; Graduate Studies (NUS Business School)</key>
+	<array>
+		<string>Division of Research &amp; Graduate Studies (NUS Business School)</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>BIZ1</string>
+	</array>
+	<key>Division of Research &amp; Graduate Studies (Faculty of Sciences)</key>
+	<array>
+		<string>Division of Research &amp; Graduate Studies (Faculty of Sciences)</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S16</string>
+	</array>
+	<key>Duke-NUS Graduate Medical School</key>
+	<array>
+		<string>Duke-NUS Graduate Medical School</string>
+		<string></string>
+		<string></string>
+		<string>Duke-NUS Graduate Medical School</string>
+	</array>
+	<key>E1</key>
+	<array>
+		<string>E1</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>E1</string>
+	</array>
+	<key>E1A</key>
+	<array>
+		<string>E1A</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>E1A</string>
+	</array>
+	<key>E2</key>
+	<array>
+		<string>E2</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>E2</string>
+	</array>
+	<key>E3</key>
+	<array>
+		<string>E3</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>E3</string>
+	</array>
+	<key>E3A</key>
+	<array>
+		<string>E3A</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>E3A</string>
+	</array>
+	<key>E4</key>
+	<array>
+		<string>E4</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>E4</string>
+	</array>
+	<key>E4A</key>
+	<array>
+		<string>E4A</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>E4A</string>
+	</array>
+	<key>E5</key>
+	<array>
+		<string>E5</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>E5</string>
+	</array>
+	<key>EA</key>
+	<array>
+		<string>EA</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>EA</string>
+	</array>
+	<key>EW1</key>
+	<array>
+		<string>EW1</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>EW1</string>
+	</array>
+	<key>EW2</key>
+	<array>
+		<string>EW2</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>EW2</string>
+	</array>
+	<key>East Asian Institute (EAI)</key>
+	<array>
+		<string>East Asian Institute (EAI)</string>
+		<string>eai</string>
+		<string></string>
+		<string>Tower Block, BTC</string>
+	</array>
+	<key>Electron Microscopy Unit</key>
+	<array>
+		<string>Electron Microscopy Unit</string>
+		<string>emu</string>
+		<string></string>
+		<string>MD5</string>
+	</array>
+	<key>Electronic Commerce &amp; Database Research Lab</key>
+	<array>
+		<string>Electronic Commerce &amp; Database Research Lab</string>
+		<string>ecdrl</string>
+		<string>Faculty</string>
+		<string>COM1</string>
+	</array>
+	<key>Embedded Systems Research Lab 1</key>
+	<array>
+		<string>Embedded Systems Research Lab 1</string>
+		<string>esrl1</string>
+		<string>Faculty</string>
+		<string>COM1</string>
+	</array>
+	<key>Embedded Systems Research Lab 2</key>
+	<array>
+		<string>Embedded Systems Research Lab 2</string>
+		<string>esrl2</string>
+		<string>Faculty</string>
+		<string>COM1</string>
+	</array>
+	<key>Energy Studies Institute (ESI)</key>
+	<array>
+		<string>Energy Studies Institute (ESI)</string>
+		<string>esi</string>
+		<string></string>
+		<string>Blk A, 29 Heng Mui Keng Terrace</string>
+	</array>
+	<key>Energy Sustainability Unit</key>
+	<array>
+		<string>Energy Sustainability Unit</string>
+		<string>esu</string>
+		<string></string>
+		<string>SDE1</string>
+	</array>
+	<key>Engineering IT Unit</key>
+	<array>
+		<string>Engineering IT Unit</string>
+		<string></string>
+		<string></string>
+		<string>E1</string>
+	</array>
+	<key>Engineering Science Programme</key>
+	<array>
+		<string>Engineering Science Programme</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>E3A</string>
+	</array>
+	<key>Eusoff Hall</key>
+	<array>
+		<string>Eusoff Hall</string>
+		<string>eh</string>
+		<string>Residence</string>
+		<string>Eusoff Hall</string>
+	</array>
+	<key>Ez-Online Station (The Deck, Level 2)</key>
+	<array>
+		<string>Ez-Online Station (The Deck, Level 2)</string>
+		<string>ezlink</string>
+		<string>Money</string>
+		<string>The Deck</string>
+	</array>
+	<key>Faculty of Arts Social Sciences (Dean&apos;s Office)</key>
+	<array>
+		<string>Faculty of Arts Social Sciences (Dean&apos;s Office)</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>AS7</string>
+	</array>
+	<key>Faculty of Dentistry (Dean&apos;s Office)</key>
+	<array>
+		<string>Faculty of Dentistry (Dean&apos;s Office)</string>
+		<string>dentistry</string>
+		<string>Faculty</string>
+		<string>Faculty of Dentistry</string>
+	</array>
+	<key>Faculty of Engineering (Dean&apos;s Office)</key>
+	<array>
+		<string>Faculty of Engineering (Dean&apos;s Office)</string>
+		<string>engineering</string>
+		<string>Faculty</string>
+		<string>EA</string>
+	</array>
+	<key>Faculty of Law (Block B)</key>
+	<array>
+		<string>Faculty of Law (Block B)</string>
+		<string>law</string>
+		<string>Faculty</string>
+		<string>Block B, BTC</string>
+	</array>
+	<key>Faculty of Law (Eu Tong Sen)</key>
+	<array>
+		<string>Faculty of Law (Eu Tong Sen)</string>
+		<string>law</string>
+		<string>Faculty</string>
+		<string>Eu Tong Sen, BTC</string>
+	</array>
+	<key>Faculty of Law (Federal)</key>
+	<array>
+		<string>Faculty of Law (Federal)</string>
+		<string>law</string>
+		<string>Faculty</string>
+		<string>Federal, BTC</string>
+	</array>
+	<key>Faculty of Science (Dean&apos;s Office)</key>
+	<array>
+		<string>Faculty of Science (Dean&apos;s Office)</string>
+		<string>science</string>
+		<string>Faculty</string>
+		<string>S16</string>
+	</array>
+	<key>Foodgle Hub</key>
+	<array>
+		<string>Foodgle Hub</string>
+		<string></string>
+		<string>Food</string>
+		<string>E2</string>
+	</array>
+	<key>Food Junction</key>
+	<array>
+		<string>Food Junction</string>
+		<string></string>
+		<string>Food</string>
+		<string>Yusof Ishak House</string>
+	</array>
+	<key>Frontier Canteen</key>
+	<array>
+		<string>Frontier Canteen</string>
+		<string>science canteen</string>
+		<string>Canteen</string>
+		<string>Frontier</string>
+	</array>
+	<key>GEA-NUS Pharmaceutical Processing Research Laboratory</key>
+	<array>
+		<string>GEA-NUS Pharmaceutical Processing Research Laboratory</string>
+		<string>gpprl</string>
+		<string></string>
+		<string>S4</string>
+	</array>
+	<key>G^3 Lab</key>
+	<array>
+		<string>G^3 Lab</string>
+		<string>g3 lab</string>
+		<string>Faculty</string>
+		<string>AS6</string>
+	</array>
+	<key>Global Asia Institute (GAI)</key>
+	<array>
+		<string>Global Asia Institute (GAI)</string>
+		<string>gai</string>
+		<string></string>
+		<string>Oei Tiong Ham, BTC</string>
+	</array>
+	<key>Good News Cafe</key>
+	<array>
+		<string>Good News Cafe</string>
+		<string></string>
+		<string>Food</string>
+		<string>EA</string>
+	</array>
+	<key>Graduate Studies Office (Faculty of Engineering)</key>
+	<array>
+		<string>Graduate Studies Office (Faculty of Engineering)</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>EA</string>
+	</array>
+	<key>Great Wall Restaurant</key>
+	<array>
+		<string>Great Wall Restaurant</string>
+		<string></string>
+		<string>Food</string>
+		<string>Great Wall Restaurant</string>
+	</array>
+	<key>Health Wellness &amp; Counselling Centre</key>
+	<array>
+		<string>Health Wellness &amp; Counselling Centre</string>
+		<string>hwcc</string>
+		<string>Health</string>
+		<string>University Health Centre</string>
+	</array>
+	<key>Human Resource Management Unit (NUS Business School)</key>
+	<array>
+		<string>Human Resource Management Unit (NUS Business School)</string>
+		<string>humu</string>
+		<string>Faculty</string>
+		<string>BIZ1</string>
+	</array>
+	<key>IT Coop - Architecture &amp; Engineering Branch</key>
+	<array>
+		<string>IT Coop - Architecture &amp; Engineering Branch</string>
+		<string></string>
+		<string>Store</string>
+		<string>SDE1</string>
+	</array>
+	<key>IT Coop - Forum Branch</key>
+	<array>
+		<string>IT Coop - Forum Branch</string>
+		<string></string>
+		<string>Store</string>
+		<string>Central Library</string>
+	</array>
+	<key>IT Coop - Science &amp; Medicine Branch</key>
+	<array>
+		<string>IT Coop - Science &amp; Medicine Branch</string>
+		<string></string>
+		<string>Store</string>
+		<string>Lecture Theatre 27</string>
+	</array>
+	<key>IT Coop @ LT-26</key>
+	<array>
+		<string>IT Coop @ LT-26</string>
+		<string></string>
+		<string>Store</string>
+		<string>Lecture Theatre 26</string>
+	</array>
+	<key>IT Coop @ YIH</key>
+	<array>
+		<string>IT Coop @ YIH</string>
+		<string></string>
+		<string>Store</string>
+		<string>Yusof Ishak House</string>
+	</array>
+	<key>Incubation Centre (Faculty of Engineering)</key>
+	<array>
+		<string>Incubation Centre (Faculty of Engineering)</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>E4</string>
+	</array>
+	<key>Incubation Centre (School of Computing)</key>
+	<array>
+		<string>Incubation Centre (School of Computing)</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>I3</string>
+	</array>
+	<key>Indonesian Express</key>
+	<array>
+		<string>Indonesian Express</string>
+		<string></string>
+		<string>Food</string>
+		<string>The Deck</string>
+	</array>
+	<key>Industry Research Lab</key>
+	<array>
+		<string>Industry Research Lab</string>
+		<string>irl</string>
+		<string>Faculty</string>
+		<string>AS6</string>
+	</array>
+	<key>Information Resource Centre (School of Design &amp; Environment)</key>
+	<array>
+		<string>Information Resource Centre (School of Design &amp; Environment)</string>
+		<string>irc</string>
+		<string>Faculty</string>
+		<string>SDE1</string>
+	</array>
+	<key>Information Storage Materials Laboratory</key>
+	<array>
+		<string>Information Storage Materials Laboratory</string>
+		<string>isml</string>
+		<string></string>
+		<string>EW2</string>
+	</array>
+	<key>Information Technology Unit (School of Computing)</key>
+	<array>
+		<string>Information Technology Unit (School of Computing)</string>
+		<string>itu</string>
+		<string>Admin</string>
+		<string>COM2</string>
+	</array>
+	<key>Institute of Materials Research </key>
+	<array>
+		<string>Institute of Materials Research </string>
+		<string>imre</string>
+		<string></string>
+		<string>Institute of Materials Research </string>
+	</array>
+	<key>Institute of Mathematical Sciences (House 3)</key>
+	<array>
+		<string>Institute of Mathematical Sciences (House 3)</string>
+		<string>ims</string>
+		<string></string>
+		<string>House 3</string>
+	</array>
+	<key>Institute of Mathematical Sciences (House 4)</key>
+	<array>
+		<string>Institute of Mathematical Sciences (House 4)</string>
+		<string>ims</string>
+		<string></string>
+		<string>House 4</string>
+	</array>
+	<key>Institute of Policy Studies</key>
+	<array>
+		<string>Institute of Policy Studies</string>
+		<string>ips</string>
+		<string></string>
+		<string>House 5, BTC</string>
+	</array>
+	<key>Institute of Real Estate Studies (IRES)</key>
+	<array>
+		<string>Institute of Real Estate Studies (IRES)</string>
+		<string>ires</string>
+		<string></string>
+		<string>I3</string>
+	</array>
+	<key>Institute of South Asian Studies (ISAS)</key>
+	<array>
+		<string>Institute of South Asian Studies (ISAS)</string>
+		<string>isas</string>
+		<string></string>
+		<string>Tower Block, BTC</string>
+	</array>
+	<key>Institute of Systems Science (ISS)</key>
+	<array>
+		<string>Institute of Systems Science (ISS)</string>
+		<string>iss</string>
+		<string></string>
+		<string>Institute of Systems Science</string>
+	</array>
+	<key>Interactive and Digital Media Institute (IDMI)</key>
+	<array>
+		<string>Interactive and Digital Media Institute (IDMI)</string>
+		<string>idmi</string>
+		<string></string>
+		<string>I3</string>
+	</array>
+	<key>International Relations Office</key>
+	<array>
+		<string>International Relations Office</string>
+		<string>iro</string>
+		<string>Admin</string>
+		<string>Shaw Foundation Alumni House</string>
+	</array>
+	<key>Investment Office</key>
+	<array>
+		<string>Investment Office</string>
+		<string>io</string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Just Acia</key>
+	<array>
+		<string>Just Acia</string>
+		<string></string>
+		<string>Food</string>
+		<string>MD6</string>
+	</array>
+	<key>Kent Ridge Guild House</key>
+	<array>
+		<string>Kent Ridge Guild House</string>
+		<string>krgh</string>
+		<string></string>
+		<string>Kent Ridge Guild House</string>
+	</array>
+	<key>Kent Ridge Hall</key>
+	<array>
+		<string>Kent Ridge Hall</string>
+		<string>krh</string>
+		<string>Residence</string>
+		<string>Kent Ridge Hall</string>
+	</array>
+	<key>Kuok Foundation House</key>
+	<array>
+		<string>Kuok Foundation House</string>
+		<string>kfh</string>
+		<string>Residence</string>
+		<string>Kuok Foundation House</string>
+	</array>
+	<key>Kent Ridge MRT</key>
+	<array>
+		<string>Kent Ridge MRT</string>
+		<string>mrt</string>
+		<string>Travel</string>
+		<string>Kent Ridge MRT</string>
+	</array>
+	<key>Lab for Media Search</key>
+	<array>
+		<string>Lab for Media Search</string>
+		<string>lms</string>
+		<string>Faculty</string>
+		<string>AS6</string>
+	</array>
+	<key>Lecture Theatre 1</key>
+	<array>
+		<string>Lecture Theatre 1</string>
+		<string>lt1</string>
+		<string>LT</string>
+		<string>Lecture Theatre 1</string>
+	</array>
+	<key>Lecture Theatre 10</key>
+	<array>
+		<string>Lecture Theatre 10</string>
+		<string>lt10</string>
+		<string>LT</string>
+		<string>Lecture Theatre 10</string>
+	</array>
+	<key>Lecture Theatre 11</key>
+	<array>
+		<string>Lecture Theatre 11</string>
+		<string>lt11</string>
+		<string>LT</string>
+		<string>Lecture Theatre 11</string>
+	</array>
+	<key>Lecture Theatre 12</key>
+	<array>
+		<string>Lecture Theatre 12</string>
+		<string>lt12</string>
+		<string>LT</string>
+		<string>Lecture Theatre 12</string>
+	</array>
+	<key>Lecture Theatre 13</key>
+	<array>
+		<string>Lecture Theatre 13</string>
+		<string>lt13</string>
+		<string>LT</string>
+		<string>Lecture Theatre 13</string>
+	</array>
+	<key>Lecture Theatre 14</key>
+	<array>
+		<string>Lecture Theatre 14</string>
+		<string>lt14</string>
+		<string>LT</string>
+		<string>Lecture Theatre 14</string>
+	</array>
+	<key>Lecture Theatre 15</key>
+	<array>
+		<string>Lecture Theatre 15</string>
+		<string>lt15</string>
+		<string>LT</string>
+		<string>Lecture Theatre 15</string>
+	</array>
+	<key>Lecture Theatre 16</key>
+	<array>
+		<string>Lecture Theatre 16</string>
+		<string>lt16</string>
+		<string>LT</string>
+		<string>Lecture Theatre 16</string>
+	</array>
+	<key>Lecture Theatre 17</key>
+	<array>
+		<string>Lecture Theatre 17</string>
+		<string>lt17</string>
+		<string>LT</string>
+		<string>Lecture Theatre 17</string>
+	</array>
+	<key>Lecture Theatre 18</key>
+	<array>
+		<string>Lecture Theatre 18</string>
+		<string>lt18</string>
+		<string>LT</string>
+		<string>Lecture Theatre 18</string>
+	</array>
+	<key>Lecture Theatre 19</key>
+	<array>
+		<string>Lecture Theatre 19</string>
+		<string>lt19</string>
+		<string>LT</string>
+		<string>Lecture Theatre 19</string>
+	</array>
+	<key>Lecture Theatre 2</key>
+	<array>
+		<string>Lecture Theatre 2</string>
+		<string>lt2</string>
+		<string>LT</string>
+		<string>Lecture Theatre 2</string>
+	</array>
+	<key>Lecture Theatre 20</key>
+	<array>
+		<string>Lecture Theatre 20</string>
+		<string>lt20</string>
+		<string>LT</string>
+		<string>Lecture Theatre 20</string>
+	</array>
+	<key>Lecture Theatre 21</key>
+	<array>
+		<string>Lecture Theatre 21</string>
+		<string>lt21</string>
+		<string>LT</string>
+		<string>Lecture Theatre 21</string>
+	</array>
+	<key>Lecture Theatre 22</key>
+	<array>
+		<string>Lecture Theatre 22</string>
+		<string>lt22</string>
+		<string>LT</string>
+		<string>Lecture Theatre 22</string>
+	</array>
+	<key>Lecture Theatre 23</key>
+	<array>
+		<string>Lecture Theatre 23</string>
+		<string>lt23</string>
+		<string>LT</string>
+		<string>Lecture Theatre 23</string>
+	</array>
+	<key>Lecture Theatre 24</key>
+	<array>
+		<string>Lecture Theatre 24</string>
+		<string>lt24</string>
+		<string>LT</string>
+		<string>Lecture Theatre 24</string>
+	</array>
+	<key>Lecture Theatre 25</key>
+	<array>
+		<string>Lecture Theatre 25</string>
+		<string>lt25</string>
+		<string>LT</string>
+		<string>Lecture Theatre 25</string>
+	</array>
+	<key>Lecture Theatre 26</key>
+	<array>
+		<string>Lecture Theatre 26</string>
+		<string>lt26</string>
+		<string>LT</string>
+		<string>Lecture Theatre 26</string>
+	</array>
+	<key>Lecture Theatre 27</key>
+	<array>
+		<string>Lecture Theatre 27</string>
+		<string>lt27</string>
+		<string>LT</string>
+		<string>Lecture Theatre 27</string>
+	</array>
+	<key>Lecture Theatre 28</key>
+	<array>
+		<string>Lecture Theatre 28</string>
+		<string>lt28</string>
+		<string>LT</string>
+		<string>Lecture Theatre 28</string>
+	</array>
+	<key>Lecture Theatre 29</key>
+	<array>
+		<string>Lecture Theatre 29</string>
+		<string>lt29</string>
+		<string>LT</string>
+		<string>Lecture Theatre 29</string>
+	</array>
+	<key>Lecture Theatre 3</key>
+	<array>
+		<string>Lecture Theatre 3</string>
+		<string>lt3</string>
+		<string>LT</string>
+		<string>Lecture Theatre 3</string>
+	</array>
+	<key>Lecture Theatre 31</key>
+	<array>
+		<string>Lecture Theatre 31</string>
+		<string>lt31</string>
+		<string>LT</string>
+		<string>Lecture Theatre 31</string>
+	</array>
+	<key>Lecture Theatre 32</key>
+	<array>
+		<string>Lecture Theatre 32</string>
+		<string>lt32</string>
+		<string>LT</string>
+		<string>Lecture Theatre 32</string>
+	</array>
+	<key>Lecture Theatre 33</key>
+	<array>
+		<string>Lecture Theatre 33</string>
+		<string>lt33</string>
+		<string>LT</string>
+		<string>Lecture Theatre 33</string>
+	</array>
+	<key>Lecture Theatre 34</key>
+	<array>
+		<string>Lecture Theatre 34</string>
+		<string>lt34</string>
+		<string>LT</string>
+		<string>Lecture Theatre 34</string>
+	</array>
+	<key>Lecture Theatre 4</key>
+	<array>
+		<string>Lecture Theatre 4</string>
+		<string>lt4</string>
+		<string>LT</string>
+		<string>Lecture Theatre 4</string>
+	</array>
+	<key>Lecture Theatre 5</key>
+	<array>
+		<string>Lecture Theatre 5</string>
+		<string>lt5</string>
+		<string>LT</string>
+		<string>Lecture Theatre 5</string>
+	</array>
+	<key>Lecture Theatre 6</key>
+	<array>
+		<string>Lecture Theatre 6</string>
+		<string>lt6</string>
+		<string>LT</string>
+		<string>Lecture Theatre 6</string>
+	</array>
+	<key>Lecture Theatre 7</key>
+	<array>
+		<string>Lecture Theatre 7</string>
+		<string>lt7</string>
+		<string>LT</string>
+		<string>Lecture Theatre 7</string>
+	</array>
+	<key>Lecture Theatre 7A</key>
+	<array>
+		<string>Lecture Theatre 7A</string>
+		<string>lt7a</string>
+		<string>LT</string>
+		<string>Lecture Theatre 7A</string>
+	</array>
+	<key>Lecture Theatre 8</key>
+	<array>
+		<string>Lecture Theatre 8</string>
+		<string>lt8</string>
+		<string>LT</string>
+		<string>Lecture Theatre 8</string>
+	</array>
+	<key>Lecture Theatre 9</key>
+	<array>
+		<string>Lecture Theatre 9</string>
+		<string>lt9</string>
+		<string>LT</string>
+		<string>Lecture Theatre 9</string>
+	</array>
+	<key>Lee Kong Chian Art Museum</key>
+	<array>
+		<string>Lee Kong Chian Art Museum</string>
+		<string>lkcam</string>
+		<string></string>
+		<string>Museum</string>
+	</array>
+	<key>Lee Kuan Yew School of Public Policy (Li Ka Shing)</key>
+	<array>
+		<string>Lee Kuan Yew School of Public Policy (Li Ka Shing)</string>
+		<string>public policy</string>
+		<string>Faculty</string>
+		<string>Li Ka Shing, BTC</string>
+	</array>
+	<key>Lee Kuan Yew School of Public Policy (Manasseh Meyer)</key>
+	<array>
+		<string>Lee Kuan Yew School of Public Policy (Manasseh Meyer)</string>
+		<string>public policy</string>
+		<string>Faculty</string>
+		<string>Manasseh Meyer, BTC</string>
+	</array>
+	<key>Lee Kuan Yew School of Public Policy (Oei Tiong Ham)</key>
+	<array>
+		<string>Lee Kuan Yew School of Public Policy (Oei Tiong Ham)</string>
+		<string>public policy</string>
+		<string>Faculty</string>
+		<string>Oei Tiong Ham, BTC</string>
+	</array>
+	<key>Lerk Thai Bistro</key>
+	<array>
+		<string>Lerk Thai Bistro</string>
+		<string></string>
+		<string>Food</string>
+		<string>The Deck</string>
+	</array>
+	<key>Life Sciences Institute (LSI)</key>
+	<array>
+		<string>Life Sciences Institute (LSI)</string>
+		<string>lsi</string>
+		<string></string>
+		<string>Centre for Life Sciences</string>
+	</array>
+	<key>MD1</key>
+	<array>
+		<string>MD1</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>MD1</string>
+	</array>
+	<key>MD10</key>
+	<array>
+		<string>MD10</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>MD10</string>
+	</array>
+	<key>MD11</key>
+	<array>
+		<string>MD11</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>MD11</string>
+	</array>
+	<key>MD2</key>
+	<array>
+		<string>MD2</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>MD2</string>
+	</array>
+	<key>MD3</key>
+	<array>
+		<string>MD3</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>MD3</string>
+	</array>
+	<key>MD4</key>
+	<array>
+		<string>MD4</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>MD4</string>
+	</array>
+	<key>MD4A</key>
+	<array>
+		<string>MD4A</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>MD4A</string>
+	</array>
+	<key>MD5</key>
+	<array>
+		<string>MD5</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>MD5</string>
+	</array>
+	<key>MD7</key>
+	<array>
+		<string>MD7</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>MD7</string>
+	</array>
+	<key>MD9</key>
+	<array>
+		<string>MD9</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>MD9</string>
+	</array>
+	<key>Maternal &amp; Child Health/Family Planning Services, Research &amp; Training</key>
+	<array>
+		<string>Maternal &amp; Child Health/Family Planning Services, Research &amp; Training</string>
+		<string>mchfpsrt</string>
+		<string></string>
+		<string>NUH</string>
+	</array>
+	<key>McDonald&apos;s</key>
+	<array>
+		<string>McDonald&apos;s</string>
+		<string></string>
+		<string>Food</string>
+		<string>McDonald&apos;s</string>
+	</array>
+	<key>Mechatronics Programme</key>
+	<array>
+		<string>Mechatronics Programme</string>
+		<string></string>
+		<string></string>
+		<string>EA</string>
+	</array>
+	<key>Medical Computing Research Lab</key>
+	<array>
+		<string>Medical Computing Research Lab</string>
+		<string>mcrl</string>
+		<string>Faculty</string>
+		<string>COM1</string>
+	</array>
+	<key>Megabites Cafe</key>
+	<array>
+		<string>Megabites Cafe</string>
+		<string></string>
+		<string>Food</string>
+		<string>Megabites Cafe</string>
+	</array>
+	<key>Middle East Institute (MEI)</key>
+	<array>
+		<string>Middle East Institute (MEI)</string>
+		<string>mei</string>
+		<string></string>
+		<string>Tower Block, BTC</string>
+	</array>
+	<key>Minimally-Invasive Surgical Centre</key>
+	<array>
+		<string>Minimally-Invasive Surgical Centre</string>
+		<string>misc</string>
+		<string></string>
+		<string>NUH</string>
+	</array>
+	<key>Multimedia Analysis and Synthesis Lab</key>
+	<array>
+		<string>Multimedia Analysis and Synthesis Lab</string>
+		<string>masl</string>
+		<string>Faculty</string>
+		<string>AS6</string>
+	</array>
+	<key>Multimedia Systems Lab</key>
+	<array>
+		<string>Multimedia Systems Lab</string>
+		<string>msl</string>
+		<string>Faculty</string>
+		<string>AS6</string>
+	</array>
+	<key>Munchie Monkey</key>
+	<array>
+		<string>Munchie Monkey</string>
+		<string></string>
+		<string>Food</string>
+		<string>Munchie Monkey</string>
+	</array>
+	<key>NUS Centre For the Arts</key>
+	<array>
+		<string>NUS Centre For the Arts</string>
+		<string>cfa</string>
+		<string></string>
+		<string>University Cultural Centre</string>
+	</array>
+	<key>NUS Enterprise</key>
+	<array>
+		<string>NUS Enterprise</string>
+		<string>enterprise</string>
+		<string></string>
+		<string>I3</string>
+	</array>
+	<key>NUS Entrepreneurship Centre</key>
+	<array>
+		<string>NUS Entrepreneurship Centre</string>
+		<string>entrepreneurship centre</string>
+		<string></string>
+		<string>I3</string>
+	</array>
+	<key>NUS Environmental Research Institute (NERI)</key>
+	<array>
+		<string>NUS Environmental Research Institute (NERI)</string>
+		<string>neri</string>
+		<string></string>
+		<string>University Hall</string>
+	</array>
+	<key>NUS Graduate School for Integrative Sciences &amp; Engineering</key>
+	<array>
+		<string>NUS Graduate School for Integrative Sciences &amp; Engineering</string>
+		<string>integrative sciences engineering</string>
+		<string></string>
+		<string>Centre for Life Sciences</string>
+	</array>
+	<key>NUS Industry Liaison Office</key>
+	<array>
+		<string>NUS Industry Liaison Office</string>
+		<string>ilo</string>
+		<string></string>
+		<string>I3</string>
+	</array>
+	<key>NUS Nanoscience and Nanotechnology Initiative (E3)</key>
+	<array>
+		<string>NUS Nanoscience and Nanotechnology Initiative (E3)</string>
+		<string>nusnni</string>
+		<string></string>
+		<string>E3</string>
+	</array>
+	<key>NUS Nanoscience and Nanotechnology Initiative (S13)</key>
+	<array>
+		<string>NUS Nanoscience and Nanotechnology Initiative (S13)</string>
+		<string>nusnni</string>
+		<string></string>
+		<string>S13</string>
+	</array>
+	<key>NUS Overseas Colleges</key>
+	<array>
+		<string>NUS Overseas Colleges</string>
+		<string>overseas colleges</string>
+		<string></string>
+		<string>I3</string>
+	</array>
+	<key>NUS Publishing</key>
+	<array>
+		<string>NUS Publishing</string>
+		<string>publishing</string>
+		<string></string>
+		<string>AS3</string>
+	</array>
+	<key>NUS Society</key>
+	<array>
+		<string>NUS Society</string>
+		<string>society</string>
+		<string></string>
+		<string>Kent Ridge Guild House</string>
+	</array>
+	<key>NUS Staff Club</key>
+	<array>
+		<string>NUS Staff Club</string>
+		<string>staff club</string>
+		<string></string>
+		<string>Staff Club</string>
+	</array>
+	<key>NUS Technology Holdings</key>
+	<array>
+		<string>NUS Technology Holdings</string>
+		<string>technology holdings</string>
+		<string></string>
+		<string>I3</string>
+	</array>
+	<key>NUS-Fudan Joint Graduate School</key>
+	<array>
+		<string>NUS-Fudan Joint Graduate School</string>
+		<string>fudan joint graduate school</string>
+		<string></string>
+		<string>University Hall</string>
+	</array>
+	<key>NUSSU Secretariat (Students&apos; Union)</key>
+	<array>
+		<string>NUSSU Secretariat (Students&apos; Union)</string>
+		<string>secretariat</string>
+		<string></string>
+		<string>Yusof Ishak House</string>
+	</array>
+	<key>National Hepatitis Quality Assurance Centre</key>
+	<array>
+		<string>National Hepatitis Quality Assurance Centre</string>
+		<string>nhqac</string>
+		<string></string>
+		<string>MD4A</string>
+	</array>
+	<key>National Malaria Reference Centre</key>
+	<array>
+		<string>National Malaria Reference Centre</string>
+		<string>nmrc</string>
+		<string></string>
+		<string>MD4A</string>
+	</array>
+	<key>National University Medical Institutes</key>
+	<array>
+		<string>National University Medical Institutes</string>
+		<string>numi</string>
+		<string></string>
+		<string>MD11</string>
+	</array>
+	<key>Ng Eng Teng Gallery</key>
+	<array>
+		<string>Ng Eng Teng Gallery</string>
+		<string>netg</string>
+		<string></string>
+		<string>Museum</string>
+	</array>
+	<key>OCBC ATM (Near to LT9)</key>
+	<array>
+		<string>OCBC ATM (Near to LT9)</string>
+		<string></string>
+		<string>Money</string>
+		<string>Lecture Theatre 9</string>
+	</array>
+	<key>Occupational Health</key>
+	<array>
+		<string>Occupational Health</string>
+		<string>oh</string>
+		<string></string>
+		<string>MD3</string>
+	</array>
+	<key>Office of Admissions</key>
+	<array>
+		<string>Office of Admissions</string>
+		<string>oa</string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Office of Alumni Relations</key>
+	<array>
+		<string>Office of Alumni Relations</string>
+		<string>oar</string>
+		<string>Admin</string>
+		<string>Shaw Foundation Alumni House</string>
+	</array>
+	<key>Office of Campus Security (House 17)</key>
+	<array>
+		<string>Office of Campus Security (House 17)</string>
+		<string>ocs</string>
+		<string>Admin</string>
+		<string>House 17</string>
+	</array>
+	<key>Office of Campus Security (House 18)</key>
+	<array>
+		<string>Office of Campus Security (House 18)</string>
+		<string>ocs</string>
+		<string>Admin</string>
+		<string>House 18</string>
+	</array>
+	<key>Office of Corporate Relations</key>
+	<array>
+		<string>Office of Corporate Relations</string>
+		<string>ocr</string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Office of Environmental Sustainability</key>
+	<array>
+		<string>Office of Environmental Sustainability</string>
+		<string>oes</string>
+		<string>Admin</string>
+		<string>Office of Estate </string>
+	</array>
+	<key>Office of Estate </key>
+	<array>
+		<string>Office of Estate </string>
+		<string>oed</string>
+		<string>Admin</string>
+		<string>Office of Estate </string>
+	</array>
+	<key>Office of Financial Aid</key>
+	<array>
+		<string>Office of Financial Aid</string>
+		<string>ofa</string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Office of Financial Services</key>
+	<array>
+		<string>Office of Financial Services</string>
+		<string>ofs</string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Office of Housing Services</key>
+	<array>
+		<string>Office of Housing Services</string>
+		<string>ohs</string>
+		<string>Admin</string>
+		<string>Block ADM</string>
+	</array>
+	<key>Office of Human Resources</key>
+	<array>
+		<string>Office of Human Resources</string>
+		<string>ohr</string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Office of Internal Audit</key>
+	<array>
+		<string>Office of Internal Audit</string>
+		<string>oia</string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Office of Investment</key>
+	<array>
+		<string>Office of Investment</string>
+		<string>oi</string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Office of Legal Affairs</key>
+	<array>
+		<string>Office of Legal Affairs</string>
+		<string>ola</string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Office of Life Sciences</key>
+	<array>
+		<string>Office of Life Sciences</string>
+		<string>ols</string>
+		<string></string>
+		<string>Centre for Life Sciences</string>
+	</array>
+	<key>Office of Programmes (Faculty of Arts &amp; Social Sciences)</key>
+	<array>
+		<string>Office of Programmes (Faculty of Arts &amp; Social Sciences)</string>
+		<string>op</string>
+		<string>Admin</string>
+		<string>AS7</string>
+	</array>
+	<key>Office of Quality Management</key>
+	<array>
+		<string>Office of Quality Management</string>
+		<string>oqm</string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Office of Research</key>
+	<array>
+		<string>Office of Research</string>
+		<string>ols</string>
+		<string></string>
+		<string>University Hall</string>
+	</array>
+	<key>Office of Resource Planning</key>
+	<array>
+		<string>Office of Resource Planning</string>
+		<string>orp</string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Office of Risk Management</key>
+	<array>
+		<string>Office of Risk Management</string>
+		<string>orm</string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Office of Safety, Health </key>
+	<array>
+		<string>Office of Safety, Health </string>
+		<string>oshe</string>
+		<string>Admin</string>
+		<string>University Health Centre</string>
+	</array>
+	<key>Office of Student Affairs</key>
+	<array>
+		<string>Office of Student Affairs</string>
+		<string>osa</string>
+		<string>Admin</string>
+		<string>Yusof Ishak House</string>
+	</array>
+	<key>Office of the Deputy President (Administration)</key>
+	<array>
+		<string>Office of the Deputy President (Administration)</string>
+		<string>odp</string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Office of the Deputy President (Research </key>
+	<array>
+		<string>Office of the Deputy President (Research </string>
+		<string>odp</string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Office of the President</key>
+	<array>
+		<string>Office of the President</string>
+		<string>op</string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Office of the Provost</key>
+	<array>
+		<string>Office of the Provost</string>
+		<string>op</string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Office of the Vice President (Campus Infrastructure)</key>
+	<array>
+		<string>Office of the Vice President (Campus Infrastructure)</string>
+		<string>ovp</string>
+		<string>Admin</string>
+		<string>Office of Estate </string>
+	</array>
+	<key>Office of the Vice President (University </key>
+	<array>
+		<string>Office of the Vice President (University </string>
+		<string>ovp</string>
+		<string>Admin</string>
+		<string>University Hall</string>
+	</array>
+	<key>Old Chang Kee</key>
+	<array>
+		<string>Old Chang Kee</string>
+		<string></string>
+		<string>Food</string>
+		<string>Yusof Ishak House</string>
+	</array>
+	<key>Orthopaedic Diagnostic Centre</key>
+	<array>
+		<string>Orthopaedic Diagnostic Centre</string>
+		<string>odc</string>
+		<string></string>
+		<string>NUH</string>
+	</array>
+	<key>Para-clinical Laboratory</key>
+	<array>
+		<string>Para-clinical Laboratory</string>
+		<string>pcl</string>
+		<string></string>
+		<string>MD3</string>
+	</array>
+	<key>Post Office</key>
+	<array>
+		<string>Post Office</string>
+		<string></string>
+		<string></string>
+		<string>Post Office</string>
+	</array>
+	<key>Pre-clinical Laboratory</key>
+	<array>
+		<string>Pre-clinical Laboratory</string>
+		<string>pcl</string>
+		<string></string>
+		<string>MD3</string>
+	</array>
+	<key>Prince George&apos;s Park Residences</key>
+	<array>
+		<string>Prince George&apos;s Park Residences</string>
+		<string>pgpr</string>
+		<string>Residence</string>
+		<string>Prince George</string>
+	</array>
+	<key>Professional Activities Centre (Faculty of Engineering)</key>
+	<array>
+		<string>Professional Activities Centre (Faculty of Engineering)</string>
+		<string>pac</string>
+		<string></string>
+		<string>EA</string>
+	</array>
+	<key>Programming Languages &amp; Systems Research Lab 1</key>
+	<array>
+		<string>Programming Languages &amp; Systems Research Lab 1</string>
+		<string>plsrl1</string>
+		<string>Faculty</string>
+		<string>COM1</string>
+	</array>
+	<key>Protein and Proteomics Centre</key>
+	<array>
+		<string>Protein and Proteomics Centre</string>
+		<string>ppc</string>
+		<string></string>
+		<string>S3</string>
+	</array>
+	<key>Raffles Hall</key>
+	<array>
+		<string>Raffles Hall</string>
+		<string>rh</string>
+		<string>Residence</string>
+		<string>Raffles Hall</string>
+	</array>
+	<key>Raffles Museum of Biodiversity Research</key>
+	<array>
+		<string>Raffles Museum of Biodiversity Research</string>
+		<string>biodiversity</string>
+		<string></string>
+		<string>S6</string>
+	</array>
+	<key>Reedz Cafe</key>
+	<array>
+		<string>Reedz Cafe</string>
+		<string></string>
+		<string>Food</string>
+		<string>BIZ1</string>
+	</array>
+	<key>Registrar&apos;s Office</key>
+	<array>
+		<string>Registrar&apos;s Office</string>
+		<string>ro</string>
+		<string></string>
+		<string>University Hall</string>
+	</array>
+	<key>Research </key>
+	<array>
+		<string>Research </string>
+		<string>rti</string>
+		<string></string>
+		<string>MD4A</string>
+	</array>
+	<key>Research Centre of Excellence in Mechanobiology</key>
+	<array>
+		<string>Research Centre of Excellence in Mechanobiology</string>
+		<string>mechanobiology</string>
+		<string></string>
+		<string>T-Lab</string>
+	</array>
+	<key>Research in Human Reproduction</key>
+	<array>
+		<string>Research in Human Reproduction</string>
+		<string>rhr</string>
+		<string></string>
+		<string>NUH</string>
+	</array>
+	<key>Ridge View Residences</key>
+	<array>
+		<string>Ridge View Residences</string>
+		<string>rvr</string>
+		<string>Residence</string>
+		<string>Ridge View Residences</string>
+	</array>
+	<key>Ridge View Tower Block</key>
+	<array>
+		<string>Ridge View Tower Block</string>
+		<string>rvtb</string>
+		<string>Residence</string>
+		<string>Ridge View Tower Block</string>
+	</array>
+	<key>Risk Management Institute (RMI)</key>
+	<array>
+		<string>Risk Management Institute (RMI)</string>
+		<string>rmi</string>
+		<string></string>
+		<string>I3</string>
+	</array>
+	<key>S1</key>
+	<array>
+		<string>S1</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S1</string>
+	</array>
+	<key>S10</key>
+	<array>
+		<string>S10</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S10</string>
+	</array>
+	<key>S11</key>
+	<array>
+		<string>S11</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S11</string>
+	</array>
+	<key>S12</key>
+	<array>
+		<string>S12</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S12</string>
+	</array>
+	<key>S13</key>
+	<array>
+		<string>S13</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S13</string>
+	</array>
+	<key>S14</key>
+	<array>
+		<string>S14</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S14</string>
+	</array>
+	<key>S15</key>
+	<array>
+		<string>S15</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S15</string>
+	</array>
+	<key>S16</key>
+	<array>
+		<string>S16</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S16</string>
+	</array>
+	<key>S17</key>
+	<array>
+		<string>S17</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S17</string>
+	</array>
+	<key>S2</key>
+	<array>
+		<string>S2</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S2</string>
+	</array>
+	<key>S3</key>
+	<array>
+		<string>S3</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S3</string>
+	</array>
+	<key>S4</key>
+	<array>
+		<string>S4</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S4</string>
+	</array>
+	<key>S4A</key>
+	<array>
+		<string>S4A</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S4A</string>
+	</array>
+	<key>S5</key>
+	<array>
+		<string>S5</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S5</string>
+	</array>
+	<key>S6</key>
+	<array>
+		<string>S6</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S6</string>
+	</array>
+	<key>S7</key>
+	<array>
+		<string>S7</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S7</string>
+	</array>
+	<key>S8</key>
+	<array>
+		<string>S8</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S8</string>
+	</array>
+	<key>S9</key>
+	<array>
+		<string>S9</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S9</string>
+	</array>
+	<key>S9A</key>
+	<array>
+		<string>S9A</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>S9A</string>
+	</array>
+	<key>SDE1</key>
+	<array>
+		<string>SDE1</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>SDE1</string>
+	</array>
+	<key>SDE2</key>
+	<array>
+		<string>SDE2</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>SDE2</string>
+	</array>
+	<key>SDE3</key>
+	<array>
+		<string>SDE3</string>
+		<string></string>
+		<string>Faculty</string>
+		<string>SDE3</string>
+	</array>
+	<key>Sapore Italiano</key>
+	<array>
+		<string>Sapore Italiano</string>
+		<string></string>
+		<string>Food</string>
+		<string>The Deck</string>
+	</array>
+	<key>Sapore @ The Thinking Corner</key>
+	<array>
+		<string>Sapore @ The Thinking Corner</string>
+		<string></string>
+		<string>Food</string>
+		<string>Li Ka Shing, BTC</string>
+	</array>
+	<key>Saw Centre for Financial Studies</key>
+	<array>
+		<string>Saw Centre for Financial Studies</string>
+		<string>scqf</string>
+		<string></string>
+		<string>BIZ2</string>
+	</array>
+	<key>Saw Centre for Quantitative Finance</key>
+	<array>
+		<string>Saw Centre for Quantitative Finance</string>
+		<string>scqf</string>
+		<string></string>
+		<string>BIZ2</string>
+	</array>
+	<key>School of Computing (Dean&apos;s Office)</key>
+	<array>
+		<string>School of Computing (Dean&apos;s Office)</string>
+		<string>soc</string>
+		<string>Faculty</string>
+		<string>COM1</string>
+	</array>
+	<key>School of Design &amp; Environment (Dean&apos;s Office)</key>
+	<array>
+		<string>School of Design &amp; Environment (Dean&apos;s Office)</string>
+		<string>sde</string>
+		<string>Faculty</string>
+		<string>SDE1</string>
+	</array>
+	<key>School of Medicine (Dean&apos;s Office)</key>
+	<array>
+		<string>School of Medicine (Dean&apos;s Office)</string>
+		<string>medicine</string>
+		<string>Faculty</string>
+		<string>MD11</string>
+	</array>
+	<key>Security Post (Bio-Sciences Complex)</key>
+	<array>
+		<string>Security Post (Bio-Sciences Complex)</string>
+		<string></string>
+		<string></string>
+		<string>S16</string>
+	</array>
+	<key>Security Post (Blk ADM)</key>
+	<array>
+		<string>Security Post (Blk ADM)</string>
+		<string></string>
+		<string></string>
+		<string>Block ADM</string>
+	</array>
+	<key>Security Post (E3A)</key>
+	<array>
+		<string>Security Post (E3A)</string>
+		<string></string>
+		<string></string>
+		<string>E3A</string>
+	</array>
+	<key>Security Post (Engineering Block)</key>
+	<array>
+		<string>Security Post (Engineering Block)</string>
+		<string></string>
+		<string></string>
+		<string>E5</string>
+	</array>
+	<key>Security Post (Office of Estate and Development)</key>
+	<array>
+		<string>Security Post (Office of Estate and Development)</string>
+		<string></string>
+		<string></string>
+		<string>Office of Estate </string>
+	</array>
+	<key>Security Post (Prince George&apos;s Park)</key>
+	<array>
+		<string>Security Post (Prince George&apos;s Park)</string>
+		<string></string>
+		<string></string>
+		<string>House 18</string>
+	</array>
+	<key>Security Post (School of Business)</key>
+	<array>
+		<string>Security Post (School of Business)</string>
+		<string></string>
+		<string></string>
+		<string>COM2</string>
+	</array>
+	<key>Security Post (University Hall)</key>
+	<array>
+		<string>Security Post (University Hall)</string>
+		<string></string>
+		<string></string>
+		<string>University Hall</string>
+	</array>
+	<key>Security Post (School of Computing)</key>
+	<array>
+		<string>Security Post (School of Computing)</string>
+		<string></string>
+		<string></string>
+		<string>COM2</string>
+	</array>
+	<key>Sensors Lab</key>
+	<array>
+		<string>Sensors Lab</string>
+		<string>sl</string>
+		<string>Faculty</string>
+		<string>AS6</string>
+	</array>
+	<key>Shaw Foundation Alumni House Office of Alumni Relations</key>
+	<array>
+		<string>Shaw Foundation Alumni House Office of Alumni Relations</string>
+		<string>sfahoar</string>
+		<string></string>
+		<string>Shaw Foundation Alumni House</string>
+	</array>
+	<key>Sheares Hall</key>
+	<array>
+		<string>Sheares Hall</string>
+		<string>sh</string>
+		<string>Residence</string>
+		<string>Sheares Hall</string>
+	</array>
+	<key>Singapore Centre for Applied and Policy Economics (SCAPE)</key>
+	<array>
+		<string>Singapore Centre for Applied and Policy Economics (SCAPE)</string>
+		<string>scape</string>
+		<string></string>
+		<string>AS2</string>
+	</array>
+	<key>Singapore Institute for Clinical Sciences</key>
+	<array>
+		<string>Singapore Institute for Clinical Sciences</string>
+		<string>ics</string>
+		<string></string>
+		<string>Brenner Centre for Molecular Medicine</string>
+	</array>
+	<key>Singapore Synchrotron Light Source (SSLS)</key>
+	<array>
+		<string>Singapore Synchrotron Light Source (SSLS)</string>
+		<string>ssls</string>
+		<string></string>
+		<string>Singapore Synchrotron Light Source</string>
+	</array>
+	<key>Singapore-MIT Alliance</key>
+	<array>
+		<string>Singapore-MIT Alliance</string>
+		<string>sma</string>
+		<string></string>
+		<string>E4</string>
+	</array>
+	<key>Solar Energy Research Institute of Singapore (SERIS)</key>
+	<array>
+		<string>Solar Energy Research Institute of Singapore (SERIS)</string>
+		<string>seris</string>
+		<string></string>
+		<string>E3A</string>
+	</array>
+	<key>South </key>
+	<array>
+		<string>South </string>
+		<string>ssaag</string>
+		<string></string>
+		<string>Museum</string>
+	</array>
+	<key>South Asian Studies Programme</key>
+	<array>
+		<string>South Asian Studies Programme</string>
+		<string>sasp</string>
+		<string></string>
+		<string>AS7</string>
+	</array>
+	<key>Southeast Asian Studies Programme</key>
+	<array>
+		<string>Southeast Asian Studies Programme</string>
+		<string>sasp</string>
+		<string></string>
+		<string>AS3</string>
+	</array>
+	<key>South &amp; Southeast Asian Art Gallery</key>
+	<array>
+		<string>South &amp; Southeast Asian Art Gallery</string>
+		<string></string>
+		<string></string>
+		<string>Museum</string>
+	</array>
+	<key>Spinelli</key>
+	<array>
+		<string>Spinelli</string>
+		<string></string>
+		<string>Food</string>
+		<string>University Hall</string>
+	</array>
+	<key>Sports and Recreation Centre</key>
+	<array>
+		<string>Sports and Recreation Centre</string>
+		<string>src</string>
+		<string></string>
+		<string>Sports and Recreation Centre</string>
+	</array>
+	<key>Starbucks (Medicine)</key>
+	<array>
+		<string>Starbucks (Medicine)</string>
+		<string></string>
+		<string>Food</string>
+		<string>MD11</string>
+	</array>
+	<key>Student Service Centre</key>
+	<array>
+		<string>Student Service Centre</string>
+		<string>ssc</string>
+		<string>Admin</string>
+		<string>Yusof Ishak House</string>
+	</array>
+	<key>Subway</key>
+	<array>
+		<string>Subway</string>
+		<string></string>
+		<string>Food</string>
+		<string>Subway</string>
+	</array>
+	<key>Sun Asian Bistro</key>
+	<array>
+		<string>Sun Asian Bistro</string>
+		<string></string>
+		<string>Food</string>
+		<string>Sun Asian Bistro</string>
+	</array>
+	<key>Surface Science Laboratory</key>
+	<array>
+		<string>Surface Science Laboratory</string>
+		<string>ssl</string>
+		<string></string>
+		<string>S13</string>
+	</array>
+	<key>Techno Edge Canteen</key>
+	<array>
+		<string>Techno Edge Canteen</string>
+		<string>engineering canteen</string>
+		<string>Canteen</string>
+		<string>Techno Edge</string>
+	</array>
+	<key>Technopreneurship Incubation Programme</key>
+	<array>
+		<string>Technopreneurship Incubation Programme</string>
+		<string>tip</string>
+		<string></string>
+		<string>E3</string>
+	</array>
+	<key>Temasek Defence Systems Institute</key>
+	<array>
+		<string>Temasek Defence Systems Institute</string>
+		<string>tdsi</string>
+		<string></string>
+		<string>E1</string>
+	</array>
+	<key>Temasek Hall</key>
+	<array>
+		<string>Temasek Hall</string>
+		<string>th</string>
+		<string>Residence</string>
+		<string>Temasek Hall</string>
+	</array>
+	<key>Temasek Laboratories (TL@NUS)</key>
+	<array>
+		<string>Temasek Laboratories (TL@NUS)</string>
+		<string>tl</string>
+		<string></string>
+		<string>T-Lab</string>
+	</array>
+	<key>Temasek Life Sciences Laboratory</key>
+	<array>
+		<string>Temasek Life Sciences Laboratory</string>
+		<string>tlsl</string>
+		<string></string>
+		<string>Temasek Life Sciences Laboratory</string>
+	</array>
+	<key>The Deck Canteen</key>
+	<array>
+		<string>The Deck Canteen</string>
+		<string>arts canteen</string>
+		<string>Canteen</string>
+		<string>The Deck</string>
+	</array>
+	<key>The Grinning Gecko</key>
+	<array>
+		<string>The Grinning Gecko</string>
+		<string></string>
+		<string>Food</string>
+		<string>The Grinning Gecko</string>
+	</array>
+	<key>The Logistics Institute - Asia Pacific (TLI - Asia Pacific)</key>
+	<array>
+		<string>The Logistics Institute - Asia Pacific (TLI - Asia Pacific)</string>
+		<string>tli</string>
+		<string></string>
+		<string>I3</string>
+	</array>
+	<key>The Olive Cove</key>
+	<array>
+		<string>The Olive Cove</string>
+		<string></string>
+		<string>Food</string>
+		<string>The Olive Cove</string>
+	</array>
+	<key>The Pavilion Cafe</key>
+	<array>
+		<string>The Pavilion Cafe</string>
+		<string></string>
+		<string>Food</string>
+		<string>The Pavilion Cafe</string>
+	</array>
+	<key>The Summit</key>
+	<array>
+		<string>The Summit</string>
+		<string></string>
+		<string>Food</string>
+		<string>Block B, BTC</string>
+	</array>
+	<key>The Terrace Canteen</key>
+	<array>
+		<string>The Terrace Canteen</string>
+		<string>business canteen</string>
+		<string>Canteen</string>
+		<string>The Terrace</string>
+	</array>
+	<key>Tropical Marine Science Institute (TMSI)</key>
+	<array>
+		<string>Tropical Marine Science Institute (TMSI)</string>
+		<string>tmsi</string>
+		<string></string>
+		<string>S2S</string>
+	</array>
+	<key>UOB ATMs (Block ADM)</key>
+	<array>
+		<string>UOB ATMs (Block ADM)</string>
+		<string></string>
+		<string>Money</string>
+		<string>Block ADM</string>
+	</array>
+	<key>UOB ATMs (S16, near Science Canteen)</key>
+	<array>
+		<string>UOB ATMs (S16, near Science Canteen)</string>
+		<string></string>
+		<string>Money</string>
+		<string>S16</string>
+	</array>
+	<key>University Cultural Centre</key>
+	<array>
+		<string>University Cultural Centre</string>
+		<string>ucc</string>
+		<string></string>
+		<string>University Cultural Centre</string>
+	</array>
+	<key>University Health Centre</key>
+	<array>
+		<string>University Health Centre</string>
+		<string>uhc</string>
+		<string></string>
+		<string>University Health Centre</string>
+	</array>
+	<key>University Scholars Programme</key>
+	<array>
+		<string>University Scholars Programme</string>
+		<string>usp</string>
+		<string></string>
+		<string>Block ADM</string>
+	</array>
+	<key>Visitors&apos; Lodge</key>
+	<array>
+		<string>Visitors&apos; Lodge</string>
+		<string>vl</string>
+		<string></string>
+		<string>Visitors</string>
+	</array>
+	<key>WHO Collaborating Centres (Maternal </key>
+	<array>
+		<string>WHO Collaborating Centres (Maternal </string>
+		<string>mchfps</string>
+		<string></string>
+		<string>NUH</string>
+	</array>
+	<key>WHO Collaborating Centres (Occupational Health)</key>
+	<array>
+		<string>WHO Collaborating Centres (Occupational Health)</string>
+		<string>occupational health</string>
+		<string></string>
+		<string>MD3</string>
+	</array>
+	<key>WHO Collaborating Centres (Research &amp; Training in Immunology)</key>
+	<array>
+		<string>WHO Collaborating Centres (Research &amp; Training in Immunology)</string>
+		<string>immunology</string>
+		<string></string>
+		<string>MD4</string>
+	</array>
+	<key>WHO Collaborating Centres (Research in Human Reproduction)</key>
+	<array>
+		<string>WHO Collaborating Centres (Research in Human Reproduction)</string>
+		<string>human reproduction</string>
+		<string></string>
+		<string>NUH</string>
+	</array>
+	<key>Ya Kun Kaya Toast</key>
+	<array>
+		<string>Ya Kun Kaya Toast</string>
+		<string></string>
+		<string>Food</string>
+		<string>Yusof Ishak House</string>
+	</array>
+	<key>Yong Siew Toh Conservatory of Music</key>
+	<array>
+		<string>Yong Siew Toh Conservatory of Music</string>
+		<string>music</string>
+		<string></string>
+		<string>Conservatory of Music</string>
+	</array>
+	<key>Seven-Eleven Convenience Store</key>
+	<array>
+		<string>Seven-Eleven Convenience Store</string>
+		<string></string>
+		<string>Store</string>
+		<string>Yusof Ishak House</string>
+	</array>
+	<key>Residential College 4</key>
+	<array>
+		<string>Residential College 4</string>
+		<string>U-Town</string>
+		<string></string>
+		<string>Residential College 4</string>
+	</array>
+	<key>Residential College 3</key>
+	<array>
+		<string>Residential College 3</string>
+		<string>U-Town</string>
+		<string></string>
+		<string>Residential College 3</string>
+	</array>
+	<key>Chua Thian Poh Hall</key>
+	<array>
+		<string>Chua Thian Poh Hall</string>
+		<string>U-Town</string>
+		<string></string>
+		<string>Chua Thian Poh Hall</string>
+	</array>
+	<key>Cinnamon West Learn Lobe</key>
+	<array>
+		<string>Cinnamon West Learn Lobe</string>
+		<string>U-Town USP Office</string>
+		<string></string>
+		<string>Cinnamon West Learn Lobe</string>
+	</array>
+	<key>Cinnamon South Learn Lobe</key>
+	<array>
+		<string>Cinnamon South Learn Lobe</string>
+		<string>U-Town</string>
+		<string></string>
+		<string>Cinnamon South Learn Lobe</string>
+	</array>
+	<key>Cinnamon College</key>
+	<array>
+		<string>Cinnamon College</string>
+		<string>U-Town USP</string>
+		<string></string>
+		<string>Cinnamon College</string>
+	</array>
+	<key>Tembusu College</key>
+	<array>
+		<string>Tembusu College</string>
+		<string>U-Town</string>
+		<string></string>
+		<string>Tembusu College</string>
+	</array>
+	<key>Tembusu West Learn Lobe</key>
+	<array>
+		<string>Tembusu West Learn Lobe</string>
+		<string>U-Town</string>
+		<string></string>
+		<string>Tembusu West Learn Lobe</string>
+	</array>
+	<key>Tembusu Multi-Purpose Hall</key>
+	<array>
+		<string>Tembusu Multi-Purpose Hall</string>
+		<string>U-Town</string>
+		<string></string>
+		<string>Tembusu Multi-Purpose Hall</string>
+	</array>
+	<key>Education Resource Centre</key>
+	<array>
+		<string>Education Resource Centre</string>
+		<string>U-Town</string>
+		<string></string>
+		<string>Education Resource Centre</string>
+	</array>
+	<key>The Ngee Ann Congsi Auditorium</key>
+	<array>
+		<string>The Ngee Ann Congsi Auditorium</string>
+		<string>U-Town</string>
+		<string></string>
+		<string>The Ngee Ann Congsi Auditorium</string>
+	</array>
+	<key>Town Green</key>
+	<array>
+		<string>Town Green</string>
+		<string>U-Town</string>
+		<string></string>
+		<string>Town Green</string>
+	</array>
+	<key>North Tower</key>
+	<array>
+		<string>North Tower</string>
+		<string>U-Town Graduate Residence</string>
+		<string></string>
+		<string>North Tower</string>
+	</array>
+	<key>South Tower</key>
+	<array>
+		<string>South Tower</string>
+		<string>U-Town Graduate Residence</string>
+		<string></string>
+		<string>South Tower</string>
+	</array>
+	<key>Edusports Complex</key>
+	<array>
+		<string>Edusports Complex</string>
+		<string>U-Town</string>
+		<string></string>
+		<string>Edusports Complex</string>
+	</array>
+	<key>Create Tower</key>
+	<array>
+		<string>Create Tower</string>
+		<string>U-Town</string>
+		<string></string>
+		<string>Create Tower</string>
+	</array>
+	<key>Create</key>
+	<array>
+		<string>Create</string>
+		<string>U-Town</string>
+		<string></string>
+		<string>Create</string>
+	</array>
+	<key>Subway (U-Town)</key>
+	<array>
+		<string>Subway (U-Town)</string>
+		<string>U-Town</string>
+		<string>Food</string>
+		<string>Create Tower</string>
+	</array>
+	<key>Fish &amp; Co Express</key>
+	<array>
+		<string>Fish &amp; Co Express</string>
+		<string>U-Town</string>
+		<string>Food</string>
+		<string>Create Tower</string>
+	</array>
+	<key>Koufu Foodcourt</key>
+	<array>
+		<string>Koufu Foodcourt</string>
+		<string>U-Town</string>
+		<string>Food</string>
+		<string>Create Tower</string>
+	</array>
+	<key>Cheers Convenience Store</key>
+	<array>
+		<string>Cheers Convenience Store</string>
+		<string>U-Town</string>
+		<string>Store</string>
+		<string>Create Tower</string>
+	</array>
+	<key>Bruce Cafe</key>
+	<array>
+		<string>Bruce Cafe</string>
+		<string>U-Town</string>
+		<string>Food</string>
+		<string>Create</string>
+	</array>
+	<key>Hwang&apos;s Korean Restaurant</key>
+	<array>
+		<string>Hwang&apos;s Korean Restaurant</string>
+		<string>U-Town</string>
+		<string>Food</string>
+		<string>Create</string>
+	</array>
+	<key>Sapore Italiano (U-Town)</key>
+	<array>
+		<string>Sapore Italiano (U-Town)</string>
+		<string>U-Town</string>
+		<string>Food</string>
+		<string>Create</string>
+	</array>
+	<key>Starbucks (U-Town)</key>
+	<array>
+		<string>Starbucks (U-Town)</string>
+		<string>U-Town</string>
+		<string>Food</string>
+		<string>Education Resource Centre</string>
+	</array>
+	<key>C J Koh Law Library</key>
+	<array>
+		<string>C J Koh Law Library</string>
+		<string></string>
+		<string>Library</string>
+		<string>C J Koh Law Library, BTC</string>
+	</array>
+	<key>Chinese Library</key>
+	<array>
+		<string>Chinese Library</string>
+		<string></string>
+		<string>Library</string>
+		<string>Central Library</string>
+	</array>
+	<key>Hon Sui Sen Auditorium</key>
+	<array>
+		<string>Hon Sui Sen Auditorium</string>
+		<string></string>
+		<string></string>
+		<string>Hon Sui Sen Auditorium</string>
+	</array>
+	<key>Hon Sui Sen Memorial Library</key>
+	<array>
+		<string>Hon Sui Sen Memorial Library</string>
+		<string></string>
+		<string>Library</string>
+		<string>Hon Sui Sen Memorial Library</string>
+	</array>
+	<key>Medical Library</key>
+	<array>
+		<string>Medical Library</string>
+		<string></string>
+		<string>Library</string>
+		<string>MD6</string>
+	</array>
+	<key>Music Library</key>
+	<array>
+		<string>Music Library</string>
+		<string></string>
+		<string>Library</string>
+		<string>Conservatory of Music</string>
+	</array>
+	<key>Science Library</key>
+	<array>
+		<string>Science Library</string>
+		<string></string>
+		<string>Library</string>
+		<string>S6</string>
+	</array>
+</dict>
+</plist>

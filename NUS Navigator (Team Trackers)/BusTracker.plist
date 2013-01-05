@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Buses</key>
+	<dict>
+		<key>YIH</key>
+		<array>
+			<string>1.2988256459765393</string>
+			<string>103.77426996479855</string>
+		</array>
+		<key>Opp YIH</key>
+		<array>
+			<string>1.298925</string>
+			<string>103.774141</string>
+		</array>
+		<key>B/t University Town &amp; Staff Club</key>
+		<array>
+			<string>1.300518</string>
+			<string>103.774372</string>
+		</array>
+		<key>B/t Central Library &amp; YIH</key>
+		<array>
+			<string>1.297982</string>
+			<string>103.773245</string>
+		</array>
+		<key>B/t Computer Centre &amp; YIH</key>
+		<array>
+			<string>1.297982</string>
+			<string>103.773245</string>
+		</array>
+		<key>Central Library</key>
+		<array>
+			<string>1.2966858945889965</string>
+			<string>103.77267280324932</string>
+		</array>
+		<key>B/t Central Library &amp; LT13</key>
+		<array>
+			<string>1.296276</string>
+			<string>103.771137</string>
+		</array>
+		<key>B/t Opp LT13 &amp; Computer Centre</key>
+		<array>
+			<string>1.296276</string>
+			<string>103.771137</string>
+		</array>
+		<key>Computer Centre</key>
+		<array>
+			<string>1.297121</string>
+			<string>103.772666</string>
+		</array>
+		<key>LT13</key>
+		<array>
+			<string>1.2952868889778264</string>
+			<string>103.7707167589302</string>
+		</array>
+		<key>Temasek Hall</key>
+		<array>
+			<string>1.2931058092794</string>
+			<string>103.77180512236778</string>
+		</array>
+		<key>B/t Temasek Hall &amp; Eusoff Hall</key>
+		<array>
+			<string>1.293584</string>
+			<string>103.770761</string>
+		</array>
+		<key>Eusoff Hall</key>
+		<array>
+			<string>1.293704830215925</string>
+			<string>103.77065673792467</string>
+		</array>
+		<key>B/t Eusoff Hall &amp; Opp LT13</key>
+		<array>
+			<string>1.295128</string>
+			<string>103.770429</string>
+		</array>
+		<key>Opp LT13</key>
+		<array>
+			<string>1.2931058092794</string>
+			<string>103.77180512236778</string>
+		</array>
+		<key>AS7</key>
+		<array>
+			<string>1.2952868889778264</string>
+			<string>103.7707167589302</string>
+		</array>
+		<key>Arts</key>
+		<array>
+			<string>1.294072</string>
+			<string>103.7725</string>
+		</array>
+		<key>COM1</key>
+		<array>
+			<string>1.294844</string>
+			<string>103.77353</string>
+		</array>
+		<key>COM2 (CP13)</key>
+		<array>
+			<string>1.294335719056965</string>
+			<string>103.77381202813332</string>
+		</array>
+		<key>Alumni House</key>
+		<array>
+			<string>1.294479</string>
+			<string>103.77317</string>
+		</array>
+		<key>Kent Ridge Guild House</key>
+		<array>
+			<string>1.293289</string>
+			<string>103.772725</string>
+		</array>
+		<key>BIZ1 Mochtar Riady Building</key>
+		<array>
+			<string>1.292275</string>
+			<string>103.77398</string>
+		</array>
+		<key>BIZ 2</key>
+		<array>
+			<string>1.2935323201855928</string>
+			<string>103.77520337353357</string>
+		</array>
+		<key>Opp PGP Hse No 12</key>
+		<array>
+			<string>1.2937575683168578</string>
+			<string>103.77697363148336</string>
+		</array>
+		<key>PGP Hse No 12</key>
+		<array>
+			<string>1.293749523741098</string>
+			<string>103.77673759709005</string>
+		</array>
+		<key>PGPR</key>
+		<array>
+			<string>1.2923470856417416</string>
+			<string>103.78008499394073</string>
+		</array>
+		<key>B/t NUH &amp; PGPR</key>
+		<array>
+			<string>1.291696</string>
+			<string>103.782649</string>
+		</array>
+		<key>NUH</key>
+		<array>
+			<string>1.296314</string>
+			<string>103.783518</string>
+		</array>
+		<key>NUHS Tower Block</key>
+		<array>
+			<string>1.29486</string>
+			<string>103.784435</string>
+		</array>
+		<key>NUH Medical Centre</key>
+		<array>
+			<string>1.296308</string>
+			<string>103.783523</string>
+		</array>
+		<key>Faculty of Dentistry</key>
+		<array>
+			<string>1.297182</string>
+			<string>103.781941</string>
+		</array>
+		<key>LT27</key>
+		<array>
+			<string>1.297413</string>
+			<string>103.78112</string>
+		</array>
+		<key>B/t UHall &amp; S17</key>
+		<array>
+			<string>1.297376</string>
+			<string>103.780187</string>
+		</array>
+		<key>UHall</key>
+		<array>
+			<string>1.2971604215789987</string>
+			<string>103.77887531767654</string>
+		</array>
+		<key>B/t Staff Club &amp; UHall</key>
+		<array>
+			<string>1.298164</string>
+			<string>103.776979</string>
+		</array>
+		<key>Opp Staff Club</key>
+		<array>
+			<string>1.2988578242149502</string>
+			<string>103.7756191159328</string>
+		</array>
+		<key>D1/D2 Carpark</key>
+		<array>
+			<string>1.294549</string>
+			<string>103.775026</string>
+		</array>
+		<key>B/t OED &amp; University Town</key>
+		<array>
+			<string>1.302401</string>
+			<string>103.774045</string>
+		</array>
+		<key>University Town</key>
+		<array>
+			<string>1.30357</string>
+			<string>103.774543</string>
+		</array>
+		<key>B/t Opp YIH &amp; OED</key>
+		<array>
+			<string>1.299698</string>
+			<string>103.774506</string>
+		</array>
+		<key>OED</key>
+		<array>
+			<string>1.301071</string>
+			<string>103.773696</string>
+		</array>
+	</dict>
+</dict>
+</plist>

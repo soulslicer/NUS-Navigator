@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>The Deck Canteen</key>
+	<array>
+		<string>13</string>
+		<string>1018</string>
+		<string>[Term]
+(Mon - Fri) 7.30am to 4.00pm
+(Sat) 7.30am to 3.00pm</string>
+		<string>None</string>
+		<string>Some stalls operate till 8.00pm in the weekdays</string>
+		<string>0730 1600 0730 1500</string>
+	</array>
+	<key>Burger King</key>
+	<array>
+		<string>3</string>
+		<string>268</string>
+		<string>[Term]
+(Mon - Fri) 8.30am to 9.00pm
+(Sat) 11.00am to 4.00pm</string>
+		<string>None</string>
+		<string></string>
+		<string>0830 2100 1100 1600</string>
+	</array>
+	<key>Sapore Italiano</key>
+	<array>
+		<string>3</string>
+		<string>268</string>
+		<string>[Term]
+(Mon - Fri) 10.00am to 8.00pm
+(Sat) 10.00am to 2.00pm</string>
+		<string>None</string>
+		<string></string>
+		<string>1000 2000 1000 1400</string>
+	</array>
+	<key>Indonesian Express</key>
+	<array>
+		<string>3</string>
+		<string>268</string>
+		<string>[Term]
+(Mon - Fri) 10.00am to 8.00pm
+(Sat) 10.30am to 3.00pm</string>
+		<string>None</string>
+		<string></string>
+		<string>1030 1930 1030 1500</string>
+	</array>
+	<key>Coffee Club Express</key>
+	<array>
+		<string>1</string>
+		<string>50</string>
+		<string>[Term]
+(Mon - Fri) 8.30am to 8.30pm
+(Sat) 8.30am to 3.30pm</string>
+		<string>6872 9116</string>
+		<string>Delivery: Min Order $75</string>
+		<string>0830 2030 0830 1530</string>
+	</array>
+	<key>The Grinning Gecko</key>
+	<array>
+		<string>1</string>
+		<string>90</string>
+		<string>[Term]
+(Mon - Fri) 8.00am to 8.00pm
+(Sat) 10.00am to 3.00pm</string>
+		<string>6779 4877</string>
+		<string>No Delivery
+ </string>
+		<string>0800 2000 1000 1500</string>
+	</array>
+	<key>Techno Edge Canteen</key>
+	<array>
+		<string>14</string>
+		<string>852</string>
+		<string>[Term]
+(Mon - Fri) 7.30am to 4.00pm
+(Sat) 7.30am to 3.00pm</string>
+		<string>None</string>
+		<string>Some stalls will operate till 8.00pm during term time</string>
+		<string>0730 1600 0730 1500</string>
+	</array>
+	<key>McDonald&apos;s</key>
+	<array>
+		<string>1</string>
+		<string>146</string>
+		<string>[Term]
+(Daily) 8.00am to 11.00pm
+[Vacation]
+(Daily) 11.00am to 9.30pm</string>
+		<string>6777 1440</string>
+		<string>Call and collect service available</string>
+		<string>0800 2300 0800 2300 0800 2300 1100 2130</string>
+	</array>
+	<key>Good News Cafe</key>
+	<array>
+		<string>1</string>
+		<string>40</string>
+		<string>[Term]
+(Mon - Fri) 7.30am to 7.00pm
+(Sat) 7.30am to 12.00pm</string>
+		<string>None</string>
+		<string></string>
+		<string>0730 1900 0730 1200</string>
+	</array>
+	<key>Dilys Creation (Engineering)</key>
+	<array>
+		<string>1</string>
+		<string>Take-away</string>
+		<string>[Term]
+(Mon - Fri) 7.00am to 8.00pm
+(Sat) 7.00am to 3.00pm</string>
+		<string>6774 6854</string>
+		<string></string>
+		<string>0700 2000 0700 1500</string>
+	</array>
+	<key>Foodgle Hub</key>
+	<array>
+		<string>1</string>
+		<string>120</string>
+		<string>[Term]
+(Mon - Fri) 9.00am to 8.00pm
+(Sat) 9.00am to 2.00pm</string>
+		<string>6774 6854</string>
+		<string></string>
+		<string>0900 2000 0900 1400</string>
+	</array>
+	<key>Frontier Canteen</key>
+	<array>
+		<string>13</string>
+		<string>1039</string>
+		<string>[Term]
+(Mon - Fri) 7.30am to 4.00pm
+(Sat) 7.30am to 3.00pm</string>
+		<string>6872 5845</string>
+		<string>Some stalls will operate till 8.00pm during term time</string>
+		<string>0730 1600 0730 1500</string>
+	</array>
+	<key>Dilys Creation (Science)</key>
+	<array>
+		<string>1</string>
+		<string>Take-away</string>
+		<string>[Term]
+(Mon - Fri) 7.00am to 8.30pm
+(Sat) 7.00am to 3.00pm</string>
+		<string>6776 4574</string>
+		<string></string>
+		<string>0700 2030 0700 1500</string>
+	</array>
+	<key>Megabites Cafe</key>
+	<array>
+		<string>1</string>
+		<string>138</string>
+		<string>[Term]
+(Mon - Fri) 8.30am to 8.00pm
+(Sat) 8.30am to 2.30pm</string>
+		<string>None</string>
+		<string>http://www.megabites.com.sg/</string>
+		<string>0830 2000 0830 1430</string>
+	</array>
+	<key>Reedz Cafe</key>
+	<array>
+		<string>1</string>
+		<string>72</string>
+		<string>[Term]
+(Mon - Fri) 8.00am to 9.00pm
+(Sat) 8.00am to 4.00pm</string>
+		<string>None</string>
+		<string>http://www.megabites.com.sg/</string>
+		<string>0800 2100 0800 1600</string>
+	</array>
+	<key>The Terrace Canteen</key>
+	<array>
+		<string>12</string>
+		<string>948</string>
+		<string>[Term]
+(Mon - Fri) 7.30am to 4.00pm
+(Sat) 7.30am to 3.00pm</string>
+		<string>None</string>
+		<string>Some stalls will operate till 8.00pm during term time</string>
+		<string>0730 1600 0730 1500</string>
+	</array>
+	<key>Great Wall Restaurant</key>
+	<array>
+		<string>1</string>
+		<string>124</string>
+		<string>[Term &amp; Vacation]
+(Daily) 7.30am to 9.00pm
+</string>
+		<string>6774 3166</string>
+		<string>Some stalls will operate till 8.00pm during term time</string>
+		<string>0730 2100 0730 2100 0730 2100</string>
+	</array>
+	<key>Alcove Asian Restaurant Bar</key>
+	<array>
+		<string>1</string>
+		<string>190</string>
+		<string>[Term &amp; Vacation]
+(Daily) 10.30am to 9.30pm
+</string>
+		<string>6777 0050</string>
+		<string>Some stalls will operate till 8.00pm during term time</string>
+		<string>1030 2130 1030 2130 1030 2130</string>
+	</array>
+	<key>Spinelli</key>
+	<array>
+		<string>1</string>
+		<string>73</string>
+		<string>[Term]
+(WD) 8.00am to 6.30pm
+[Vacation]
+(WD) 8.00am to 4.30pm</string>
+		<string>6777 5025</string>
+		<string>Delivery Min Order $25 10 mins walking distance</string>
+		<string>0800 1830</string>
+	</array>
+	<key>Just Acia</key>
+	<array>
+		<string>1</string>
+		<string>102</string>
+		<string>[Term &amp; Vacation]
+(Daily) 7.30am to 10.00pm
+[Vacation]
+(WD) 8.00am to 4.30pm</string>
+		<string>None</string>
+		<string></string>
+		<string>0730 2200 0730 2200 0730 2200</string>
+	</array>
+	<key>Starbucks (Medicine)</key>
+	<array>
+		<string>1</string>
+		<string>60</string>
+		<string>[Term &amp; Vacation]
+(WD) 7.30am to 9.00pm
+(WE) 7.30am to 8.00pm</string>
+		<string>None</string>
+		<string></string>
+		<string>0730 2100 0730 2000 0730 2000</string>
+	</array>
+	<key>Food Junction</key>
+	<array>
+		<string>8</string>
+		<string>363</string>
+		<string>[Term]
+(Sat) 8.00am to 3.00pm
+(Mon-Fri) 8.00am to 4.30pm</string>
+		<string>6774 4940</string>
+		<string></string>
+		<string>0800 2000 0800 1500</string>
+	</array>
+	<key>Subway</key>
+	<array>
+		<string>1</string>
+		<string>44</string>
+		<string>[Term]
+(Daily) 10.00am to 10.00pm
+</string>
+		<string>6775 5285</string>
+		<string>Delivery Walking $30 Min Driving $50</string>
+		<string>1000 2200 1000 2200 1000 2200</string>
+	</array>
+	<key>Old Chang Kee</key>
+	<array>
+		<string>1</string>
+		<string>44</string>
+		<string>[Term]
+(Mon-Fri) 8.00am to 10.00pm
+(Sat) 8.00am to 10.00pm</string>
+		<string>63032344</string>
+		<string></string>
+		<string>0800 2200 0800 2200</string>
+	</array>
+	<key>Ya Kun Kaya Toast</key>
+	<array>
+		<string>1</string>
+		<string>44</string>
+		<string>[Term]
+(Mon-Fri) 7.30am to 9.00pm
+(Sat) 9.00am to 9.00pm</string>
+		<string>None</string>
+		<string></string>
+		<string>0730 2100 0730 2100 0900 2100</string>
+	</array>
+	<key>The Summit</key>
+	<array>
+		<string>5</string>
+		<string>296</string>
+		<string>[Term]
+(Mon-Fri) 7.30am to 8.30pm
+(Sat) 7.30am to 3.00pm</string>
+		<string>None</string>
+		<string></string>
+		<string>0730 2030 0730 1500</string>
+	</array>
+	<key>Sapore @ The Thinking Corner</key>
+	<array>
+		<string>1</string>
+		<string>80</string>
+		<string>[Term]
+(Mon-Fri) 10.00am to 8.00pm
+</string>
+		<string>None</string>
+		<string></string>
+		<string>1000 2000</string>
+	</array>
+	<key>Subway (U-Town)</key>
+	<array>
+		<string>1</string>
+		<string>73</string>
+		<string>[Term]
+(Mon-Sat) 10.00am to 8.00pm
+</string>
+		<string>None</string>
+		<string></string>
+		<string>1000 2000 1000 2000</string>
+	</array>
+	<key>Fish &amp; Co Express</key>
+	<array>
+		<string>1</string>
+		<string>116</string>
+		<string>[Term &amp; Vacation]
+(Daily) 10.30am to 10.30pm
+</string>
+		<string>None</string>
+		<string></string>
+		<string>1030 2230 1030 2230 1030 2230</string>
+	</array>
+	<key>Koufu Foodcourt</key>
+	<array>
+		<string>13</string>
+		<string>490</string>
+		<string>[Term &amp; Vacation]
+(Mon-Fri) 7.00am to 9.00pm
+(WE) 10.00am to 10.00pm</string>
+		<string>None</string>
+		<string></string>
+		<string>0700 2100 1000 2200 1000 2200</string>
+	</array>
+	<key>Bruce Cafe</key>
+	<array>
+		<string>1</string>
+		<string>136</string>
+		<string>[Term &amp; Vacation]
+(Daily) 8.00am to 12.00am
+</string>
+		<string>None</string>
+		<string></string>
+		<string>0800 2359 0800 2359 0800 2359</string>
+	</array>
+	<key>Hwang&apos;s Korean Restaurant</key>
+	<array>
+		<string>1</string>
+		<string>114</string>
+		<string>[Term &amp; Vacation]
+(Mon-Fri) 10.00am to 8.00pm
+(Sat) 10.00am to 8.00pm</string>
+		<string>None</string>
+		<string></string>
+		<string>1000 2000 1000 2000</string>
+	</array>
+	<key>Sapore Italiano (U-Town)</key>
+	<array>
+		<string>1</string>
+		<string>122</string>
+		<string>[Term]
+(Daily) 11.00am to 12.00am
+[Vacation]
+(Daily) 11.00am to 10.00pm</string>
+		<string>None</string>
+		<string></string>
+		<string>1100 2359 1100 2359 1100 2359</string>
+	</array>
+	<key>Starbucks (U-Town)</key>
+	<array>
+		<string>1</string>
+		<string>330</string>
+		<string>[Term &amp; Vacation]
+24 hours
+</string>
+		<string>None</string>
+		<string></string>
+		<string>24</string>
+	</array>
+</dict>
+</plist>

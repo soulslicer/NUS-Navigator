@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AS1</key>
+	<array>
+		<string>AS1</string>
+		<string>1.295182</string>
+		<string>103.771904</string>
+	</array>
+	<key>AS2</key>
+	<array>
+		<string>AS2</string>
+		<string>1.295171</string>
+		<string>103.771278</string>
+	</array>
+	<key>AS3</key>
+	<array>
+		<string>AS3</string>
+		<string>1.294737</string>
+		<string>103.771172</string>
+	</array>
+	<key>AS4</key>
+	<array>
+		<string>AS4</string>
+		<string>1.294565</string>
+		<string>103.771553</string>
+	</array>
+	<key>AS5</key>
+	<array>
+		<string>AS5</string>
+		<string>1.294270</string>
+		<string>103.771683</string>
+	</array>
+	<key>AS6</key>
+	<array>
+		<string>AS6</string>
+		<string>1.295633</string>
+		<string>103.773018</string>
+	</array>
+	<key>AS7</key>
+	<array>
+		<string>AS7</string>
+		<string>1.294485</string>
+		<string>103.770866</string>
+	</array>
+	<key>BIZ1</key>
+	<array>
+		<string>BIZ1</string>
+		<string>1.292447</string>
+		<string>103.773994</string>
+	</array>
+	<key>BIZ2</key>
+	<array>
+		<string>BIZ2</string>
+		<string>1.293343</string>
+		<string>103.775154</string>
+	</array>
+	<key>Blk A, 29 Heng Mui Keng Terrace</key>
+	<array>
+		<string>Blk A, 29 Heng Mui Keng Terrace</string>
+		<string>1.290527</string>
+		<string>103.777550</string>
+	</array>
+	<key>Block ADM</key>
+	<array>
+		<string>Block ADM</string>
+		<string>1.296129</string>
+		<string>103.772247</string>
+	</array>
+	<key>Block B, BTC</key>
+	<array>
+		<string>Block B, BTC</string>
+		<string>1.318983</string>
+		<string>103.816750</string>
+	</array>
+	<key>Brenner Centre for Molecular Medicine</key>
+	<array>
+		<string>Brenner Centre for Molecular Medicine</string>
+		<string>1.294833</string>
+		<string>103.780411</string>
+	</array>
+	<key>CELC</key>
+	<array>
+		<string>CELC</string>
+		<string>1.296995</string>
+		<string>103.771309</string>
+	</array>
+	<key>COM1</key>
+	<array>
+		<string>COM1</string>
+		<string>1.294887</string>
+		<string>103.773689</string>
+	</array>
+	<key>COM2</key>
+	<array>
+		<string>COM2</string>
+		<string>1.294324</string>
+		<string>103.773903</string>
+	</array>
+	<key>Central Library</key>
+	<array>
+		<string>Central Library</string>
+		<string>1.296394</string>
+		<string>103.772835</string>
+	</array>
+	<key>Central Library Annexe</key>
+	<array>
+		<string>Central Library Annexe</string>
+		<string>1.297048</string>
+		<string>103.773636</string>
+	</array>
+	<key>Central Square</key>
+	<array>
+		<string>Central Square</string>
+		<string>1.296544</string>
+		<string>103.780457</string>
+	</array>
+	<key>Centre for Life Sciences</key>
+	<array>
+		<string>Centre for Life Sciences</string>
+		<string>1.294479</string>
+		<string>103.780571</string>
+	</array>
+	<key>Centre for Maritime Studies</key>
+	<array>
+		<string>Centre for Maritime Studies</string>
+		<string>1.293589</string>
+		<string>103.776794</string>
+	</array>
+	<key>Cheers Convenience Store</key>
+	<array>
+		<string>Cheers Convenience Store</string>
+		<string>1.298534</string>
+		<string>103.774918</string>
+	</array>
+	<key>Coffee Club Express</key>
+	<array>
+		<string>Coffee Club Express</string>
+		<string>1.295128</string>
+		<string>103.771080</string>
+	</array>
+	<key>Coffee Grounds</key>
+	<array>
+		<string>Coffee Grounds</string>
+		<string>1.295836</string>
+		<string>103.781837</string>
+	</array>
+	<key>Computer Centre</key>
+	<array>
+		<string>Computer Centre</string>
+		<string>1.297606</string>
+		<string>103.772408</string>
+	</array>
+	<key>Conservatory of Music</key>
+	<array>
+		<string>Conservatory of Music</string>
+		<string>1.302401</string>
+		<string>103.772652</string>
+	</array>
+	<key>Data Storage Institute</key>
+	<array>
+		<string>Data Storage Institute</string>
+		<string>1.299199</string>
+		<string>103.772926</string>
+	</array>
+	<key>Dilys Creation (Engineering)</key>
+	<array>
+		<string>Dilys Creation (Engineering)</string>
+		<string>1.299269</string>
+		<string>103.771423</string>
+	</array>
+	<key>Dilys Creation (Science)</key>
+	<array>
+		<string>Dilys Creation (Science)</string>
+		<string>1.296759</string>
+		<string>103.780457</string>
+	</array>
+	<key>Duke-NUS Graduate Medical School</key>
+	<array>
+		<string>Duke-NUS Graduate Medical School</string>
+		<string>1.281479</string>
+		<string>103.833839</string>
+	</array>
+	<key>E1</key>
+	<array>
+		<string>E1</string>
+		<string>1.298770</string>
+		<string>103.770973</string>
+	</array>
+	<key>E1A</key>
+	<array>
+		<string>E1A</string>
+		<string>1.299451</string>
+		<string>103.770645</string>
+	</array>
+	<key>E2</key>
+	<array>
+		<string>E2</string>
+		<string>1.299338</string>
+		<string>103.771034</string>
+	</array>
+	<key>E3</key>
+	<array>
+		<string>E3</string>
+		<string>1.299537</string>
+		<string>103.771500</string>
+	</array>
+	<key>E3A</key>
+	<array>
+		<string>E3A</string>
+		<string>1.300341</string>
+		<string>103.771294</string>
+	</array>
+	<key>E4</key>
+	<array>
+		<string>E4</string>
+		<string>1.298470</string>
+		<string>103.772163</string>
+	</array>
+	<key>E4A</key>
+	<array>
+		<string>E4A</string>
+		<string>1.298657</string>
+		<string>103.772476</string>
+	</array>
+	<key>E5</key>
+	<array>
+		<string>E5</string>
+		<string>1.298019</string>
+		<string>103.772339</string>
+	</array>
+	<key>EA</key>
+	<array>
+		<string>EA</string>
+		<string>1.300320</string>
+		<string>103.770523</string>
+	</array>
+	<key>EW1</key>
+	<array>
+		<string>EW1</string>
+		<string>1.298480</string>
+		<string>103.770630</string>
+	</array>
+	<key>EW2</key>
+	<array>
+		<string>EW2</string>
+		<string>1.299183</string>
+		<string>103.772377</string>
+	</array>
+	<key>Eu Tong Sen, BTC</key>
+	<array>
+		<string>Eu Tong Sen, BTC</string>
+		<string>1.318361</string>
+		<string>103.816711</string>
+	</array>
+	<key>Eusoff Hall</key>
+	<array>
+		<string>Eusoff Hall</string>
+		<string>1.293755</string>
+		<string>103.770210</string>
+	</array>
+	<key>Faculty of Dentistry</key>
+	<array>
+		<string>Faculty of Dentistry</string>
+		<string>1.296930</string>
+		<string>103.781799</string>
+	</array>
+	<key>Federal, BTC</key>
+	<array>
+		<string>Federal, BTC</string>
+		<string>1.318415</string>
+		<string>103.817352</string>
+	</array>
+	<key>Frontier</key>
+	<array>
+		<string>Frontier</string>
+		<string>1.296544</string>
+		<string>103.780457</string>
+	</array>
+	<key>Great Wall Restaurant</key>
+	<array>
+		<string>Great Wall Restaurant</string>
+		<string>1.299708</string>
+		<string>103.775368</string>
+	</array>
+	<key>House 11</key>
+	<array>
+		<string>House 11</string>
+		<string>1.297000</string>
+		<string>103.775185</string>
+	</array>
+	<key>House 15</key>
+	<array>
+		<string>House 15</string>
+		<string>1.292897</string>
+		<string>103.777977</string>
+	</array>
+	<key>House 17</key>
+	<array>
+		<string>House 17</string>
+		<string>1.292570</string>
+		<string>103.779114</string>
+	</array>
+	<key>House 18</key>
+	<array>
+		<string>House 18</string>
+		<string>1.292350</string>
+		<string>103.779411</string>
+	</array>
+	<key>House 3</key>
+	<array>
+		<string>House 3</string>
+		<string>1.292731</string>
+		<string>103.779427</string>
+	</array>
+	<key>House 4</key>
+	<array>
+		<string>House 4</string>
+		<string>1.292946</string>
+		<string>103.779198</string>
+	</array>
+	<key>House 5, BTC</key>
+	<array>
+		<string>House 5, BTC</string>
+		<string>1.317575</string>
+		<string>103.816734</string>
+	</array>
+	<key>I3</key>
+	<array>
+		<string>I3</string>
+		<string>1.292366</string>
+		<string>103.775574</string>
+	</array>
+	<key>Institute of Materials Research </key>
+	<array>
+		<string>Institute of Materials Research </string>
+		<string>1.294635</string>
+		<string>103.775558</string>
+	</array>
+	<key>Institute of Systems Science</key>
+	<array>
+		<string>Institute of Systems Science</string>
+		<string>1.292214</string>
+		<string>103.776459</string>
+	</array>
+	<key>Kent Ridge Guild House</key>
+	<array>
+		<string>Kent Ridge Guild House</string>
+		<string>1.293694</string>
+		<string>103.772507</string>
+	</array>
+	<key>Kent Ridge Hall</key>
+	<array>
+		<string>Kent Ridge Hall</string>
+		<string>1.291921</string>
+		<string>103.774391</string>
+	</array>
+	<key>Kuok Foundation House</key>
+	<array>
+		<string>Kuok Foundation House</string>
+		<string>1.300368</string>
+		<string>103.773499</string>
+	</array>
+	<key>Kent Ridge MRT</key>
+	<array>
+		<string>Kent Ridge MRT</string>
+		<string>1.294367</string>
+		<string>103.784451</string>
+	</array>
+	<key>Lecture Theatre 1</key>
+	<array>
+		<string>Lecture Theatre 1</string>
+		<string>1.299569</string>
+		<string>103.771133</string>
+	</array>
+	<key>Lecture Theatre 10</key>
+	<array>
+		<string>Lecture Theatre 10</string>
+		<string>1.294930</string>
+		<string>103.771873</string>
+	</array>
+	<key>Lecture Theatre 11</key>
+	<array>
+		<string>Lecture Theatre 11</string>
+		<string>1.295477</string>
+		<string>103.771286</string>
+	</array>
+	<key>Lecture Theatre 12</key>
+	<array>
+		<string>Lecture Theatre 12</string>
+		<string>1.295021</string>
+		<string>103.771019</string>
+	</array>
+	<key>Lecture Theatre 13</key>
+	<array>
+		<string>Lecture Theatre 13</string>
+		<string>1.295091</string>
+		<string>103.770805</string>
+	</array>
+	<key>Lecture Theatre 14</key>
+	<array>
+		<string>Lecture Theatre 14</string>
+		<string>1.295751</string>
+		<string>103.773232</string>
+	</array>
+	<key>Lecture Theatre 15</key>
+	<array>
+		<string>Lecture Theatre 15</string>
+		<string>1.295568</string>
+		<string>103.773285</string>
+	</array>
+	<key>Lecture Theatre 16</key>
+	<array>
+		<string>Lecture Theatre 16</string>
+		<string>1.293949</string>
+		<string>103.773743</string>
+	</array>
+	<key>Lecture Theatre 17</key>
+	<array>
+		<string>Lecture Theatre 17</string>
+		<string>1.293638</string>
+		<string>103.773872</string>
+	</array>
+	<key>Lecture Theatre 18</key>
+	<array>
+		<string>Lecture Theatre 18</string>
+		<string>1.293568</string>
+		<string>103.774384</string>
+	</array>
+	<key>Lecture Theatre 19</key>
+	<array>
+		<string>Lecture Theatre 19</string>
+		<string>1.293772</string>
+		<string>103.774292</string>
+	</array>
+	<key>Lecture Theatre 2</key>
+	<array>
+		<string>Lecture Theatre 2</string>
+		<string>1.299387</string>
+		<string>103.771225</string>
+	</array>
+	<key>Lecture Theatre 20</key>
+	<array>
+		<string>Lecture Theatre 20</string>
+		<string>1.295879</string>
+		<string>103.778671</string>
+	</array>
+	<key>Lecture Theatre 21</key>
+	<array>
+		<string>Lecture Theatre 21</string>
+		<string>1.295407</string>
+		<string>103.779343</string>
+	</array>
+	<key>Lecture Theatre 22</key>
+	<array>
+		<string>Lecture Theatre 22</string>
+		<string>1.295858</string>
+		<string>103.779655</string>
+	</array>
+	<key>Lecture Theatre 23</key>
+	<array>
+		<string>Lecture Theatre 23</string>
+		<string>1.296389</string>
+		<string>103.779846</string>
+	</array>
+	<key>Lecture Theatre 24</key>
+	<array>
+		<string>Lecture Theatre 24</string>
+		<string>1.295831</string>
+		<string>103.780464</string>
+	</array>
+	<key>Lecture Theatre 25</key>
+	<array>
+		<string>Lecture Theatre 25</string>
+		<string>1.296174</string>
+		<string>103.780518</string>
+	</array>
+	<key>Lecture Theatre 26</key>
+	<array>
+		<string>Lecture Theatre 26</string>
+		<string>1.296475</string>
+		<string>103.780975</string>
+	</array>
+	<key>Lecture Theatre 27</key>
+	<array>
+		<string>Lecture Theatre 27</string>
+		<string>1.297048</string>
+		<string>103.780746</string>
+	</array>
+	<key>Lecture Theatre 28</key>
+	<array>
+		<string>Lecture Theatre 28</string>
+		<string>1.297241</string>
+		<string>103.781067</string>
+	</array>
+	<key>Lecture Theatre 29</key>
+	<array>
+		<string>Lecture Theatre 29</string>
+		<string>1.297140</string>
+		<string>103.781181</string>
+	</array>
+	<key>Lecture Theatre 3</key>
+	<array>
+		<string>Lecture Theatre 3</string>
+		<string>1.297654</string>
+		<string>103.773163</string>
+	</array>
+	<key>Lecture Theatre 31</key>
+	<array>
+		<string>Lecture Theatre 31</string>
+		<string>1.296893</string>
+		<string>103.780266</string>
+	</array>
+	<key>Lecture Theatre 32</key>
+	<array>
+		<string>Lecture Theatre 32</string>
+		<string>1.296174</string>
+		<string>103.778160</string>
+	</array>
+	<key>Lecture Theatre 33</key>
+	<array>
+		<string>Lecture Theatre 33</string>
+		<string>1.297783</string>
+		<string>103.780823</string>
+	</array>
+	<key>Lecture Theatre 34</key>
+	<array>
+		<string>Lecture Theatre 34</string>
+		<string>1.297778</string>
+		<string>103.780647</string>
+	</array>
+	<key>Lecture Theatre 4</key>
+	<array>
+		<string>Lecture Theatre 4</string>
+		<string>1.297676</string>
+		<string>103.773407</string>
+	</array>
+	<key>Lecture Theatre 5</key>
+	<array>
+		<string>Lecture Theatre 5</string>
+		<string>1.298325</string>
+		<string>103.771194</string>
+	</array>
+	<key>Lecture Theatre 6</key>
+	<array>
+		<string>Lecture Theatre 6</string>
+		<string>1.298807</string>
+		<string>103.771805</string>
+	</array>
+	<key>Lecture Theatre 7</key>
+	<array>
+		<string>Lecture Theatre 7</string>
+		<string>1.300154</string>
+		<string>103.770920</string>
+	</array>
+	<key>Lecture Theatre 7A</key>
+	<array>
+		<string>Lecture Theatre 7A</string>
+		<string>1.300513</string>
+		<string>103.770805</string>
+	</array>
+	<key>Lecture Theatre 8</key>
+	<array>
+		<string>Lecture Theatre 8</string>
+		<string>1.294147</string>
+		<string>103.771873</string>
+	</array>
+	<key>Lecture Theatre 9</key>
+	<array>
+		<string>Lecture Theatre 9</string>
+		<string>1.295021</string>
+		<string>103.772095</string>
+	</array>
+	<key>Li Ka Shing, BTC</key>
+	<array>
+		<string>Li Ka Shing, BTC</string>
+		<string>1.319637</string>
+		<string>103.817360</string>
+	</array>
+	<key>MD1</key>
+	<array>
+		<string>MD1</string>
+		<string>1.295214</string>
+		<string>103.780556</string>
+	</array>
+	<key>MD10</key>
+	<array>
+		<string>MD10</string>
+		<string>1.296550</string>
+		<string>103.781685</string>
+	</array>
+	<key>MD11</key>
+	<array>
+		<string>MD11</string>
+		<string>1.296019</string>
+		<string>103.781639</string>
+	</array>
+	<key>MD2</key>
+	<array>
+		<string>MD2</string>
+		<string>1.294981</string>
+		<string>103.781105</string>
+	</array>
+	<key>MD3</key>
+	<array>
+		<string>MD3</string>
+		<string>1.295359</string>
+		<string>103.780983</string>
+	</array>
+	<key>MD4</key>
+	<array>
+		<string>MD4</string>
+		<string>1.295772</string>
+		<string>103.780823</string>
+	</array>
+	<key>MD4A</key>
+	<array>
+		<string>MD4A</string>
+		<string>1.295633</string>
+		<string>103.780731</string>
+	</array>
+	<key>MD5</key>
+	<array>
+		<string>MD5</string>
+		<string>1.295665</string>
+		<string>103.781311</string>
+	</array>
+	<key>MD6</key>
+	<array>
+		<string>MD6</string>
+		<string>1.295347</string>
+		<string>103.781532</string>
+	</array>
+	<key>MD7</key>
+	<array>
+		<string>MD7</string>
+		<string>1.296131</string>
+		<string>103.780960</string>
+	</array>
+	<key>MD9</key>
+	<array>
+		<string>MD9</string>
+		<string>1.296737</string>
+		<string>103.781212</string>
+	</array>
+	<key>Manasseh Meyer, BTC</key>
+	<array>
+		<string>Manasseh Meyer, BTC</string>
+		<string>1.319048</string>
+		<string>103.817482</string>
+	</array>
+	<key>McDonald&apos;s</key>
+	<array>
+		<string>McDonald&apos;s</string>
+		<string>1.298046</string>
+		<string>103.771080</string>
+	</array>
+	<key>Megabites Cafe</key>
+	<array>
+		<string>Megabites Cafe</string>
+		<string>1.296635</string>
+		<string>103.780220</string>
+	</array>
+	<key>Munchie Monkey</key>
+	<array>
+		<string>Munchie Monkey</string>
+		<string>1.298604</string>
+		<string>103.774673</string>
+	</array>
+	<key>Museum</key>
+	<array>
+		<string>Museum</string>
+		<string>1.301473</string>
+		<string>103.772499</string>
+	</array>
+	<key>NUH</key>
+	<array>
+		<string>NUH</string>
+		<string>1.294646</string>
+		<string>103.782936</string>
+	</array>
+	<key>Oei Tiong Ham, BTC</key>
+	<array>
+		<string>Oei Tiong Ham, BTC</string>
+		<string>1.319391</string>
+		<string>103.817886</string>
+	</array>
+	<key>Office of Estate </key>
+	<array>
+		<string>Office of Estate </string>
+		<string>1.301628</string>
+		<string>103.773598</string>
+	</array>
+	<key>Post Office</key>
+	<array>
+		<string>Post Office</string>
+		<string>1.298459</string>
+		<string>103.775047</string>
+	</array>
+	<key>Prince George</key>
+	<array>
+		<string>Prince George</string>
+		<string>1.290999</string>
+		<string>103.781021</string>
+	</array>
+	<key>Raffles Hall</key>
+	<array>
+		<string>Raffles Hall</string>
+		<string>1.299778</string>
+		<string>103.773842</string>
+	</array>
+	<key>Ridge View Residences</key>
+	<array>
+		<string>Ridge View Residences</string>
+		<string>1.298689</string>
+		<string>103.776039</string>
+	</array>
+	<key>Ridge View Tower Block</key>
+	<array>
+		<string>Ridge View Tower Block</string>
+		<string>1.297992</string>
+		<string>103.776642</string>
+	</array>
+	<key>S1</key>
+	<array>
+		<string>S1</string>
+		<string>1.295831</string>
+		<string>103.777748</string>
+	</array>
+	<key>S10</key>
+	<array>
+		<string>S10</string>
+		<string>1.296351</string>
+		<string>103.779587</string>
+	</array>
+	<key>S11</key>
+	<array>
+		<string>S11</string>
+		<string>1.296684</string>
+		<string>103.778656</string>
+	</array>
+	<key>S12</key>
+	<array>
+		<string>S12</string>
+		<string>1.297027</string>
+		<string>103.778534</string>
+	</array>
+	<key>S13</key>
+	<array>
+		<string>S13</string>
+		<string>1.296818</string>
+		<string>103.779083</string>
+	</array>
+	<key>S14</key>
+	<array>
+		<string>S14</string>
+		<string>1.296877</string>
+		<string>103.779594</string>
+	</array>
+	<key>S15</key>
+	<array>
+		<string>S15</string>
+		<string>1.297188</string>
+		<string>103.780151</string>
+	</array>
+	<key>S16</key>
+	<array>
+		<string>S16</string>
+		<string>1.296807</string>
+		<string>103.780083</string>
+	</array>
+	<key>S17</key>
+	<array>
+		<string>S17</string>
+		<string>1.297746</string>
+		<string>103.780388</string>
+	</array>
+	<key>S2</key>
+	<array>
+		<string>S2</string>
+		<string>1.295557</string>
+		<string>103.777985</string>
+	</array>
+	<key>S2S</key>
+	<array>
+		<string>S2S</string>
+		<string>1.297662</string>
+		<string>103.773941</string>
+	</array>
+	<key>S3</key>
+	<array>
+		<string>S3</string>
+		<string>1.295600</string>
+		<string>103.778488</string>
+	</array>
+	<key>S4</key>
+	<array>
+		<string>S4</string>
+		<string>1.295675</string>
+		<string>103.778992</string>
+	</array>
+	<key>S4A</key>
+	<array>
+		<string>S4A</string>
+		<string>1.295863</string>
+		<string>103.779083</string>
+	</array>
+	<key>S5</key>
+	<array>
+		<string>S5</string>
+		<string>1.295531</string>
+		<string>103.779610</string>
+	</array>
+	<key>S6</key>
+	<array>
+		<string>S6</string>
+		<string>1.295027</string>
+		<string>103.780190</string>
+	</array>
+	<key>S7</key>
+	<array>
+		<string>S7</string>
+		<string>1.296362</string>
+		<string>103.778793</string>
+	</array>
+	<key>S8</key>
+	<array>
+		<string>S8</string>
+		<string>1.296126</string>
+		<string>103.779251</string>
+	</array>
+	<key>S9</key>
+	<array>
+		<string>S9</string>
+		<string>1.296062</string>
+		<string>103.779846</string>
+	</array>
+	<key>S9A</key>
+	<array>
+		<string>S9A</string>
+		<string>1.295911</string>
+		<string>103.779869</string>
+	</array>
+	<key>SDE1</key>
+	<array>
+		<string>SDE1</string>
+		<string>1.297467</string>
+		<string>103.770569</string>
+	</array>
+	<key>SDE2</key>
+	<array>
+		<string>SDE2</string>
+		<string>1.297338</string>
+		<string>103.771004</string>
+	</array>
+	<key>SDE3</key>
+	<array>
+		<string>SDE3</string>
+		<string>1.298196</string>
+		<string>103.770332</string>
+	</array>
+	<key>Shaw Foundation Alumni House</key>
+	<array>
+		<string>Shaw Foundation Alumni House</string>
+		<string>1.293246</string>
+		<string>103.773468</string>
+	</array>
+	<key>Sheares Hall</key>
+	<array>
+		<string>Sheares Hall</string>
+		<string>1.291471</string>
+		<string>103.775620</string>
+	</array>
+	<key>Singapore Synchrotron Light Source</key>
+	<array>
+		<string>Singapore Synchrotron Light Source</string>
+		<string>1.295651</string>
+		<string>103.774933</string>
+	</array>
+	<key>Sports and Recreation Centre</key>
+	<array>
+		<string>Sports and Recreation Centre</string>
+		<string>1.299762</string>
+		<string>103.775337</string>
+	</array>
+	<key>Staff Club</key>
+	<array>
+		<string>Staff Club</string>
+		<string>1.299271</string>
+		<string>103.775681</string>
+	</array>
+	<key>Subway</key>
+	<array>
+		<string>Subway</string>
+		<string>1.298706</string>
+		<string>103.774796</string>
+	</array>
+	<key>Sun Asian Bistro</key>
+	<array>
+		<string>Sun Asian Bistro</string>
+		<string>1.299108</string>
+		<string>103.775673</string>
+	</array>
+	<key>T-Lab</key>
+	<array>
+		<string>T-Lab</string>
+		<string>1.299682</string>
+		<string>103.772034</string>
+	</array>
+	<key>Techno Edge</key>
+	<array>
+		<string>Techno Edge</string>
+		<string>1.297939</string>
+		<string>103.771439</string>
+	</array>
+	<key>Temasek Hall</key>
+	<array>
+		<string>Temasek Hall</string>
+		<string>1.292873</string>
+		<string>103.771233</string>
+	</array>
+	<key>The Deck</key>
+	<array>
+		<string>The Deck</string>
+		<string>1.294715</string>
+		<string>103.772423</string>
+	</array>
+	<key>The Grinning Gecko</key>
+	<array>
+		<string>The Grinning Gecko</string>
+		<string>1.296464</string>
+		<string>103.773148</string>
+	</array>
+	<key>The Olive Cove</key>
+	<array>
+		<string>The Olive Cove</string>
+		<string>1.299730</string>
+		<string>103.770844</string>
+	</array>
+	<key>The Pavilion Cafe</key>
+	<array>
+		<string>The Pavilion Cafe</string>
+		<string>1.300277</string>
+		<string>103.770645</string>
+	</array>
+	<key>The Terrace</key>
+	<array>
+		<string>The Terrace</string>
+		<string>1.294260</string>
+		<string>103.774284</string>
+	</array>
+	<key>Tower Block, BTC</key>
+	<array>
+		<string>Tower Block, BTC</string>
+		<string>1.319485</string>
+		<string>103.817078</string>
+	</array>
+	<key>University Cultural Centre</key>
+	<array>
+		<string>University Cultural Centre</string>
+		<string>1.301671</string>
+		<string>103.771774</string>
+	</array>
+	<key>University Hall</key>
+	<array>
+		<string>University Hall</string>
+		<string>1.297236</string>
+		<string>103.777695</string>
+	</array>
+	<key>University Health Centre</key>
+	<array>
+		<string>University Health Centre</string>
+		<string>1.299113</string>
+		<string>103.776306</string>
+	</array>
+	<key>Visitors</key>
+	<array>
+		<string>Visitors</string>
+		<string>1.298582</string>
+		<string>103.773254</string>
+	</array>
+	<key>Yusof Ishak House</key>
+	<array>
+		<string>Yusof Ishak House</string>
+		<string>1.298657</string>
+		<string>103.774681</string>
+	</array>
+	<key>Residential College 4</key>
+	<array>
+		<string>Residential College 4</string>
+		<string>1.308295</string>
+		<string>103.7732</string>
+	</array>
+	<key>Residential College 3</key>
+	<array>
+		<string>Residential College 3</string>
+		<string>1.30764</string>
+		<string>103.77302</string>
+	</array>
+	<key>Chua Thian Poh Hall</key>
+	<array>
+		<string>Chua Thian Poh Hall</string>
+		<string>1.307093</string>
+		<string>103.773285</string>
+	</array>
+	<key>Cinnamon West Learn Lobe</key>
+	<array>
+		<string>Cinnamon West Learn Lobe</string>
+		<string>1.306906</string>
+		<string>103.773036</string>
+	</array>
+	<key>Cinnamon South Learn Lobe</key>
+	<array>
+		<string>Cinnamon South Learn Lobe</string>
+		<string>1.306605</string>
+		<string>103.773178</string>
+	</array>
+	<key>Cinnamon College</key>
+	<array>
+		<string>Cinnamon College</string>
+		<string>1.306675</string>
+		<string>103.77357</string>
+	</array>
+	<key>Tembusu College</key>
+	<array>
+		<string>Tembusu College</string>
+		<string>1.306289</string>
+		<string>103.773792</string>
+	</array>
+	<key>Tembusu West Learn Lobe</key>
+	<array>
+		<string>Tembusu West Learn Lobe</string>
+		<string>1.305991</string>
+		<string>103.773481</string>
+	</array>
+	<key>Tembusu Multi-Purpose Hall</key>
+	<array>
+		<string>Tembusu Multi-Purpose Hall</string>
+		<string>1.306007</string>
+		<string>103.773843</string>
+	</array>
+	<key>Education Resource Centre</key>
+	<array>
+		<string>Education Resource Centre</string>
+		<string>1.305956</string>
+		<string>103.772913</string>
+	</array>
+	<key>The Ngee Ann Congsi Auditorium</key>
+	<array>
+		<string>The Ngee Ann Congsi Auditorium</string>
+		<string>1.305554</string>
+		<string>103.773208</string>
+	</array>
+	<key>Town Green</key>
+	<array>
+		<string>Town Green</string>
+		<string>1.30498</string>
+		<string>103.773205</string>
+	</array>
+	<key>North Tower</key>
+	<array>
+		<string>North Tower</string>
+		<string>1.305436</string>
+		<string>103.773825</string>
+	</array>
+	<key>South Tower</key>
+	<array>
+		<string>South Tower</string>
+		<string>1.305037</string>
+		<string>103.773902</string>
+	</array>
+	<key>Edusports Complex</key>
+	<array>
+		<string>Edusports Complex</string>
+		<string>1.304836</string>
+		<string>103.772473</string>
+	</array>
+	<key>Create Tower</key>
+	<array>
+		<string>Create Tower</string>
+		<string>1.303964</string>
+		<string>103.773715</string>
+	</array>
+	<key>Create</key>
+	<array>
+		<string>Create</string>
+		<string>1.304157</string>
+		<string>103.774431</string>
+	</array>
+	<key>C J Koh Law Library, BTC</key>
+	<array>
+		<string>C J Koh Law Library, BTC</string>
+		<string>1.318836</string>
+		<string>103.818137</string>
+	</array>
+	<key>Hon Sui Sen Auditorium</key>
+	<array>
+		<string>Hon Sui Sen Auditorium</string>
+		<string>1.293391</string>
+		<string>103.774619</string>
+	</array>
+	<key>Hon Sui Sen Memorial Library</key>
+	<array>
+		<string>Hon Sui Sen Memorial Library</string>
+		<string>1.293109</string>
+		<string>103.774541</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Enginnering</key>
+	<array>
+		<string>1.299451</string>
+		<string>103.770719</string>
+		<string>Engin</string>
+		<string>Description</string>
+	</array>
+	<key>Design and Environment</key>
+	<array>
+		<string>1.297885</string>
+		<string>103.771073</string>
+		<string>Engin</string>
+		<string>Description</string>
+	</array>
+	<key>Arts and Social Sciences</key>
+	<array>
+		<string>1.294699</string>
+		<string>103.771609</string>
+		<string>Arts</string>
+		<string>Description</string>
+	</array>
+	<key>Business</key>
+	<array>
+		<string>1.293155</string>
+		<string>103.774184</string>
+		<string> </string>
+		<string>Description</string>
+	</array>
+	<key>Computing</key>
+	<array>
+		<string>1.294925</string>
+		<string>103.773884</string>
+		<string> </string>
+		<string>Description</string>
+	</array>
+	<key>Dentistry</key>
+	<array>
+		<string>1.296963</string>
+		<string>103.781759</string>
+		<string>Science</string>
+		<string>Description</string>
+	</array>
+	<key>Law</key>
+	<array>
+		<string>1.318382</string>
+		<string>1.318382</string>
+		<string> </string>
+		<string>Description</string>
+	</array>
+	<key>Medicine</key>
+	<array>
+		<string>1.296019</string>
+		<string>103.781791</string>
+		<string>Science</string>
+		<string>Description</string>
+	</array>
+	<key>Music</key>
+	<array>
+		<string>1.302476</string>
+		<string>103.772746</string>
+		<string> </string>
+		<string>Description</string>
+	</array>
+	<key>Public Policy</key>
+	<array>
+		<string>1.319637</string>
+		<string>103.817528</string>
+		<string> </string>
+		<string>Description</string>
+	</array>
+	<key>Science</key>
+	<array>
+		<string>1.296952</string>
+		<string>103.779978</string>
+		<string>Science</string>
+		<string>Description</string>
+	</array>
+	<key>U-Town Area</key>
+	<array>
+		<string>1.30564</string>
+		<string>103.773079</string>
+		<string>Utown</string>
+		<string>Description</string>
+	</array>
+</dict>
+</plist>

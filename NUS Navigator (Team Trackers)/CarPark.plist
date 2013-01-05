@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CP1</key>
+	<array>
+		<string>School of Design &amp; Environment</string>
+		<string>1.29751</string>
+		<string>103.770145</string>
+		<string>Reserved</string>
+	</array>
+	<key>CP2</key>
+	<array>
+		<string>Faculty of Engineering</string>
+		<string>1.299489</string>
+		<string>103.772623</string>
+		<string>Reserved</string>
+	</array>
+	<key>CP2A</key>
+	<array>
+		<string>In front of Block E3A</string>
+		<string>1.300722</string>
+		<string>103.771582</string>
+		<string>Visitor</string>
+	</array>
+	<key>CP2B</key>
+	<array>
+		<string>Beside Block EA</string>
+		<string>1.300331</string>
+		<string>103.770295</string>
+		<string>Staff Season</string>
+	</array>
+	<key>CP3</key>
+	<array>
+		<string>UCC/YST Conservatory of Music</string>
+		<string>1.302411</string>
+		<string>103.773041</string>
+		<string>Visitor 2</string>
+	</array>
+	<key>CP3A</key>
+	<array>
+		<string>Office of Estate &amp; Development </string>
+		<string>1.30187</string>
+		<string>103.77376</string>
+		<string>Staff Season</string>
+	</array>
+	<key>CP4</key>
+	<array>
+		<string>Raffles Hall Carpark</string>
+		<string>1.300465</string>
+		<string>103.773819</string>
+		<string>Visitor</string>
+	</array>
+	<key>CP4A</key>
+	<array>
+		<string>CFA Carpark</string>
+		<string>1.299135</string>
+		<string>103.774173</string>
+		<string>Visitor</string>
+	</array>
+	<key>CP5</key>
+	<array>
+		<string>Sports &amp; Recreation Centre</string>
+		<string>1.300132</string>
+		<string>103.774935</string>
+		<string>Visitor</string>
+	</array>
+	<key>CP5B</key>
+	<array>
+		<string>NUS Staff Club Carpark</string>
+		<string>1.299033</string>
+		<string>103.775638</string>
+		<string>Staff Season</string>
+	</array>
+	<key>CP6</key>
+	<array>
+		<string>Between Block S7 &amp; S13</string>
+		<string>1.296609</string>
+		<string>103.779087</string>
+		<string>Staff Season</string>
+	</array>
+	<key>CP6A</key>
+	<array>
+		<string>Block S1A</string>
+		<string>1.296373</string>
+		<string>103.778298</string>
+		<string>Staff Season</string>
+	</array>
+	<key>CP6B</key>
+	<array>
+		<string>University Hall Carpark</string>
+		<string>1.297258</string>
+		<string>103.777891</string>
+		<string>Visitor</string>
+	</array>
+	<key>CP7</key>
+	<array>
+		<string>Between Block S10 &amp; S14 </string>
+		<string>1.296635</string>
+		<string>103.779881</string>
+		<string>Staff Season</string>
+	</array>
+	<key>CP8</key>
+	<array>
+		<string>Block S16</string>
+		<string>1.29714</string>
+		<string>103.780627</string>
+		<string>Staff Season</string>
+	</array>
+	<key>CP9A</key>
+	<array>
+		<string>Clinical Research Centre (MD11)</string>
+		<string>1.295622</string>
+		<string>103.781962</string>
+		<string>Authorized</string>
+	</array>
+	<key>CP10</key>
+	<array>
+		<string>Block S17</string>
+		<string>1.29766</string>
+		<string>103.781152</string>
+		<string>Visitor</string>
+	</array>
+	<key>CP10A</key>
+	<array>
+		<string>CRISPS</string>
+		<string>1.292227</string>
+		<string>103.782241</string>
+		<string>Visitor</string>
+	</array>
+	<key>CP10B</key>
+	<array>
+		<string>PGP Residences Carpark</string>
+		<string>1.291085</string>
+		<string>103.781088</string>
+		<string>Visitor 2</string>
+	</array>
+	<key>CP10C</key>
+	<array>
+		<string>Centre for Life Science Carpark</string>
+		<string>1.294356</string>
+		<string>103.781083</string>
+		<string>Authorized</string>
+	</array>
+	<key>CP11</key>
+	<array>
+		<string>In front of IMRE and SSLS</string>
+		<string>1.294372</string>
+		<string>103.77508</string>
+		<string>Visitor</string>
+	</array>
+	<key>CP11A</key>
+	<array>
+		<string>BIZ 2 Carpark</string>
+		<string>1.293536</string>
+		<string>103.775493</string>
+		<string>Staff Season</string>
+	</array>
+	<key>CP12</key>
+	<array>
+		<string>Hon Sui Sen Memorial Library Carpark</string>
+		<string>1.292903</string>
+		<string>103.774694</string>
+		<string>Reserved</string>
+	</array>
+	<key>CP12A</key>
+	<array>
+		<string>Institute of Systems Science Carpark</string>
+		<string>1.292034</string>
+		<string>103.776678</string>
+		<string>Visitor 2</string>
+	</array>
+	<key>CP12B</key>
+	<array>
+		<string>I3 Carpark</string>
+		<string>1.292136</string>
+		<string>103.775858</string>
+		<string>Reserved</string>
+	</array>
+	<key>CP13</key>
+	<array>
+		<string>COM1 Carpark</string>
+		<string>1.294646</string>
+		<string>103.773471</string>
+		<string>Staff Season</string>
+	</array>
+	<key>CP14</key>
+	<array>
+		<string>Shaw Foundation Building (AS7)</string>
+		<string>1.293723</string>
+		<string>103.77177</string>
+		<string>Staff Season</string>
+	</array>
+	<key>CP15</key>
+	<array>
+		<string>In front of Temasek &amp; Eusoff Halls</string>
+		<string>1.293621</string>
+		<string>103.77118</string>
+		<string>Visitor</string>
+	</array>
+	<key>CP16</key>
+	<array>
+		<string>Lecture Theatre 11 Carpark</string>
+		<string>1.295359</string>
+		<string>103.770724</string>
+		<string>Visitor</string>
+	</array>
+	<key>CP17</key>
+	<array>
+		<string>Computer Centre Carpark</string>
+		<string>1.297408</string>
+		<string>103.772317</string>
+		<string>Staff Season</string>
+	</array>
+	<key>CP18</key>
+	<array>
+		<string>Block ADM Carpark</string>
+		<string>1.296319</string>
+		<string>103.772349</string>
+		<string>Staff Season</string>
+	</array>
+	<key>UTown Create</key>
+	<array>
+		<string>UTown Create Basement</string>
+		<string>1.303913</string>
+		<string>103.773621</string>
+		<string>Visitor</string>
+	</array>
+	<key>UTown Visitor 1</key>
+	<array>
+		<string>UTown Visitor 1</string>
+		<string>1.303859</string>
+		<string>103.775547</string>
+		<string>Visitor</string>
+	</array>
+	<key>UTown Visitor 2</key>
+	<array>
+		<string>UTown Visitor 2</string>
+		<string>1.309035</string>
+		<string>103.772258</string>
+		<string>Visitor</string>
+	</array>
+</dict>
+</plist>

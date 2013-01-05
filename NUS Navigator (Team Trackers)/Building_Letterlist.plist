@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<array>
+		<string>AS1</string>
+		<string>AS2</string>
+		<string>AS3</string>
+		<string>AS4</string>
+		<string>AS5</string>
+		<string>AS6</string>
+		<string>AS7</string>
+		<string>AXS Stations (Block ADM)</string>
+		<string>AXS Stations (LT27)</string>
+		<string>Alcove Asian Restaurant Bar</string>
+		<string>Adaptive Computing Research Lab</string>
+		<string>Add Value Machine (Block ADM)</string>
+		<string>Algorithms Research Lab</string>
+		<string>Alice Lee Centre for Nursing Studies</string>
+		<string>Animal Holding Unit</string>
+		<string>Antenatal Diagnostic Centre</string>
+		<string>Architectural Studios</string>
+		<string>Asia Research Institute (ARI)</string>
+		<string>Association of Pacific Rim Universities</string>
+	</array>
+	<key>B</key>
+	<array>
+		<string>BIZ1</string>
+		<string>BIZ2</string>
+		<string>Bachelor of Technology Programme</string>
+		<string>Bio-Sciences Complex</string>
+		<string>Bioinformatics Centre</string>
+		<string>Bukit Timah Campus Management Office</string>
+		<string>Burger King</string>
+		<string>Business School (Dean&apos;s Office)</string>
+		<string>Bruce Cafe</string>
+	</array>
+	<key>C</key>
+	<array>
+		<string>COM1</string>
+		<string>COM2</string>
+		<string>Cancer Science Institute of Singapore</string>
+		<string>Central Library</string>
+		<string>Central Square Canteen</string>
+		<string>Centre for Advanced Chemical Engineering</string>
+		<string>Centre for Advanced Computations in Engineering Science (ACES)</string>
+		<string>Centre for Biomedical Ethics</string>
+		<string>Centre for Construction Materials and Technology</string>
+		<string>Centre for Design Technology</string>
+		<string>Centre for Development of Teaching </string>
+		<string>Centre for English Language Communication</string>
+		<string>Centre for Environmental and Occupational Health Research</string>
+		<string>Centre for Industrial Mathematics</string>
+		<string>Centre for Instructional Technology (Central Library Annexe)</string>
+		<string>Centre for Instructional Technology (Computer Centre)</string>
+		<string>Centre for Instructional Technology (House 11)</string>
+		<string>Centre for Integrated Circuit Failure Analysis and Reliability</string>
+		<string>Centre for Intelligent Control</string>
+		<string>Centre for Intelligent Products and Manufacturing Systems</string>
+		<string>Centre for International Law (CIL)</string>
+		<string>Centre for Ion Beam Applications</string>
+		<string>Centre for Language Studies</string>
+		<string>Centre for Maritime Studies (CMS)</string>
+		<string>Centre for Microwave and Radio Frequency</string>
+		<string>Centre for Molecular Epidemiology</string>
+		<string>Centre for Offshore Research &amp; Engineering</string>
+		<string>Centre for Optoelectronics</string>
+		<string>Centre for Power Electronics</string>
+		<string>Centre for Project Management </string>
+		<string>Centre for Quantum Technologies</string>
+		<string>Centre for Real Estate Studies</string>
+		<string>Centre for Remote Imaging, Sensing and Processing (CRISP)</string>
+		<string>Centre for Soft-ground Engineering</string>
+		<string>Centre for Superconducting and Magnetic Materials</string>
+		<string>Centre for Total Building Performance</string>
+		<string>Centre for Transportation Research</string>
+		<string>Centre for Wavelets Approximation &amp; Information Processing</string>
+		<string>Centre for e-Business</string>
+		<string>Centre for Advanced Studies in Architecture</string>
+		<string>Chemical, Molecular and Materials Analysis Centre</string>
+		<string>Citibank ATM (Blk ADM, 4th floor, Walkway linking AS1 and AS6)</string>
+		<string>Clinic for Human Reproduction</string>
+		<string>Coffee Club Express</string>
+		<string>Coffee Grounds</string>
+		<string>Communications </string>
+		<string>Computational Biology Research Lab</string>
+		<string>Computational Linguistics Research Lab</string>
+		<string>Computer Centre</string>
+		<string>Computer Vision Research Lab</string>
+		<string>Cinnamon West Learn Lobe</string>
+		<string>Cinnamon South Learn Lobe</string>
+		<string>Cinnamon College</string>
+		<string>Create Tower</string>
+		<string>Create</string>
+		<string>Chua Thian Poh Hall</string>
+		<string>Cheers Convenience Store</string>
+		<string>C J Koh Law Library</string>
+		<string>Chinese Library</string>
+		<string>Clinical Research Centre</string>
+	</array>
+	<key>D</key>
+	<array>
+		<string>DBS / POSBank ATMs (Block ADM)</string>
+		<string>DBS / POSBank ATMs (LT27)</string>
+		<string>DBS / POSBank ATMs (Yusof Ishak House)</string>
+		<string>DBS / POSBank Cash Deposit Machine (Yusof Ishak House)</string>
+		<string>Data Storage Institute</string>
+		<string>Database Research Lab 1</string>
+		<string>Database Research Lab 2</string>
+		<string>Dental Centre</string>
+		<string>Department of Accounting</string>
+		<string>Department of Anaesthesia</string>
+		<string>Department of Anatomy</string>
+		<string>Department of Architecture</string>
+		<string>Department of Biochemistry</string>
+		<string>Department of Biochemistry (Annexe)</string>
+		<string>Department of Biological Sciences (S1)</string>
+		<string>Department of Biological Sciences (S1A)</string>
+		<string>Department of Biological Sciences (S2)</string>
+		<string>Department of Biological Sciences (S3)</string>
+		<string>Department of Building</string>
+		<string>Department of Chemical &amp; Biomolecular Engineering</string>
+		<string>Department of Chemistry (S3)</string>
+		<string>Department of Chemistry (S5)</string>
+		<string>Department of Chemistry (S7)</string>
+		<string>Department of Chemistry (S8)</string>
+		<string>Department of Chemistry (S9)</string>
+		<string>Department of Chinese Studies</string>
+		<string>Department of Civil Engineering</string>
+		<string>Department of Computer Science</string>
+		<string>Department of Decision Sciences</string>
+		<string>Department of Diagnostic Radiology</string>
+		<string>Department of Economics</string>
+		<string>Department of Electrical &amp; Computer Engineering</string>
+		<string>Department of English Language &amp; Literature</string>
+		<string>Department of Epidemiology &amp; Public Health</string>
+		<string>Department of Finance</string>
+		<string>Department of Geography</string>
+		<string>Department of History</string>
+		<string>Department of Industrial &amp; Systems Engineering</string>
+		<string>Department of Information Systems</string>
+		<string>Department of Japanese Studies</string>
+		<string>Department of Malay Studies</string>
+		<string>Department of Management &amp; Organisation</string>
+		<string>Department of Marketing</string>
+		<string>Department of Materials Science &amp; Engineering</string>
+		<string>Department of Mathematics (S14)</string>
+		<string>Department of Mathematics (S17)</string>
+		<string>Department of Mechanical Engineering</string>
+		<string>Department of Medicine</string>
+		<string>Department of Microbiology</string>
+		<string>Department of Obstetrics &amp; Gynaecology</string>
+		<string>Department of Ophthalmology</string>
+		<string>Department of Oral &amp; Maxillofacial Surgery</string>
+		<string>Department of Orthopaedic Surgery</string>
+		<string>Department of Otolaryngology</string>
+		<string>Department of Paediatrics</string>
+		<string>Department of Pathology</string>
+		<string>Department of Pharmacology</string>
+		<string>Department of Pharmacy (Annexe)</string>
+		<string>Department of Pharmacy (S3)</string>
+		<string>Department of Pharmacy (S4)</string>
+		<string>Department of Philosophy</string>
+		<string>Department of Physics (S11)</string>
+		<string>Department of Physics (S12)</string>
+		<string>Department of Physics (S13)</string>
+		<string>Department of Physics (S1A)</string>
+		<string>Department of Physics (S7)</string>
+		<string>Department of Physiology</string>
+		<string>Department of Political Science</string>
+		<string>Department of Preventive Dentistry</string>
+		<string>Department of Psychological Medicine</string>
+		<string>Department of Psychology</string>
+		<string>Department of Real Estate</string>
+		<string>Department of Restorative Dentistry</string>
+		<string>Department of Social Work</string>
+		<string>Department of Sociology</string>
+		<string>Department of Statistics &amp; Applied Probability</string>
+		<string>Department of Strategy </string>
+		<string>Department of Surgery</string>
+		<string>Design Incubation Centre</string>
+		<string>Development Office</string>
+		<string>Development Office (House 15)</string>
+		<string>Division of Research &amp; Graduate Studies (Faculty of Arts &amp; Social Sciences)</string>
+		<string>Dilys Creation (Engineering)</string>
+		<string>Dilys Creation (Science)</string>
+		<string>Division of Bioengineering</string>
+		<string>Division of Engineering Technology Management</string>
+		<string>Division of Environmental Science &amp; Engineering</string>
+		<string>Division of Graduate Dental Studies</string>
+		<string>Division of Graduate Medical Studies</string>
+		<string>Division of Graduate Studies (School of Computing)</string>
+		<string>Division of Research &amp; Graduate Studies (School of Design &amp; Environment)</string>
+		<string>Division of Research (School of Computing)</string>
+		<string>Division of Research &amp; Graduate Studies (NUS Business School)</string>
+		<string>Duke-NUS Graduate Medical School</string>
+	</array>
+	<key>E</key>
+	<array>
+		<string>E1</string>
+		<string>E1A</string>
+		<string>E2</string>
+		<string>E3</string>
+		<string>E3A</string>
+		<string>E4</string>
+		<string>E4A</string>
+		<string>E5</string>
+		<string>EA</string>
+		<string>EW1</string>
+		<string>EW2</string>
+		<string>East Asian Institute (EAI)</string>
+		<string>Electron Microscopy Unit</string>
+		<string>Electronic Commerce &amp; Database Research Lab</string>
+		<string>Embedded Systems Research Lab 1</string>
+		<string>Embedded Systems Research Lab 2</string>
+		<string>Energy Studies Institute (ESI)</string>
+		<string>Energy Sustainability Unit</string>
+		<string>Engineering IT Unit</string>
+		<string>Engineering Science Programme</string>
+		<string>Eusoff Hall</string>
+		<string>Ez-Online Station (The Deck, Level 2)</string>
+		<string>Education Resource Centre</string>
+		<string>Edusports Complex</string>
+	</array>
+	<key>F</key>
+	<array>
+		<string>Faculty of Arts Social Sciences (Dean&apos;s Office)</string>
+		<string>Faculty of Dentistry (Dean&apos;s Office)</string>
+		<string>Faculty of Engineering (Dean&apos;s Office)</string>
+		<string>Faculty of Law (Block B)</string>
+		<string>Faculty of Law (Eu Tong Sen)</string>
+		<string>Faculty of Law (Federal)</string>
+		<string>Faculty of Science (Dean&apos;s Office)</string>
+		<string>Foodgle Hub</string>
+		<string>Food Junction</string>
+		<string>Frontier Canteen</string>
+		<string>Fish &amp; Co Express</string>
+	</array>
+	<key>G</key>
+	<array>
+		<string>GEA-NUS Pharmaceutical Processing Research Laboratory</string>
+		<string>G^3 Lab</string>
+		<string>Global Asia Institute (GAI)</string>
+		<string>Good News Cafe</string>
+		<string>Graduate Studies Office (Faculty of Engineering)</string>
+		<string>Great Wall Restaurant</string>
+	</array>
+	<key>H</key>
+	<array>
+		<string>Health Wellness &amp; Counselling Centre</string>
+		<string>Human Resource Management Unit (NUS Business School)</string>
+		<string>Hwang&apos;s Korean Restaurant</string>
+		<string>Hon Sui Sen Auditorium</string>
+		<string>Hon Sui Sen Memorial Library</string>
+	</array>
+	<key>I</key>
+	<array>
+		<string>IT Coop - Architecture &amp; Engineering Branch</string>
+		<string>IT Coop - Forum Branch</string>
+		<string>IT Coop - Science &amp; Medicine Branch</string>
+		<string>IT Coop @ LT-26</string>
+		<string>IT Coop @ YIH</string>
+		<string>Incubation Centre (Faculty of Engineering)</string>
+		<string>Incubation Centre (School of Computing)</string>
+		<string>Indonesian Express</string>
+		<string>Industry Research Lab</string>
+		<string>Information Resource Centre (School of Design &amp; Environment)</string>
+		<string>Information Storage Materials Laboratory</string>
+		<string>Information Technology Unit (School of Computing)</string>
+		<string>Institute of Materials Research </string>
+		<string>Institute of Mathematical Sciences (House 3)</string>
+		<string>Institute of Mathematical Sciences (House 4)</string>
+		<string>Institute of Policy Studies</string>
+		<string>Institute of Real Estate Studies (IRES)</string>
+		<string>Institute of South Asian Studies (ISAS)</string>
+		<string>Institute of Systems Science (ISS)</string>
+		<string>Interactive and Digital Media Institute (IDMI)</string>
+		<string>International Relations Office</string>
+		<string>Investment Office</string>
+	</array>
+	<key>J</key>
+	<array>
+		<string>Just Acia</string>
+	</array>
+	<key>K</key>
+	<array>
+		<string>Kent Ridge Guild House</string>
+		<string>Kent Ridge Hall</string>
+		<string>Kuok Foundation House</string>
+		<string>Koufu Foodcourt</string>
+		<string>Kent Ridge MRT</string>
+	</array>
+	<key>L</key>
+	<array>
+		<string>Lab for Media Search</string>
+		<string>Lecture Theatre 1</string>
+		<string>Lecture Theatre 10</string>
+		<string>Lecture Theatre 11</string>
+		<string>Lecture Theatre 12</string>
+		<string>Lecture Theatre 13</string>
+		<string>Lecture Theatre 14</string>
+		<string>Lecture Theatre 15</string>
+		<string>Lecture Theatre 16</string>
+		<string>Lecture Theatre 17</string>
+		<string>Lecture Theatre 18</string>
+		<string>Lecture Theatre 19</string>
+		<string>Lecture Theatre 2</string>
+		<string>Lecture Theatre 20</string>
+		<string>Lecture Theatre 21</string>
+		<string>Lecture Theatre 22</string>
+		<string>Lecture Theatre 23</string>
+		<string>Lecture Theatre 24</string>
+		<string>Lecture Theatre 25</string>
+		<string>Lecture Theatre 26</string>
+		<string>Lecture Theatre 27</string>
+		<string>Lecture Theatre 28</string>
+		<string>Lecture Theatre 29</string>
+		<string>Lecture Theatre 3</string>
+		<string>Lecture Theatre 31</string>
+		<string>Lecture Theatre 32</string>
+		<string>Lecture Theatre 33</string>
+		<string>Lecture Theatre 34</string>
+		<string>Lecture Theatre 4</string>
+		<string>Lecture Theatre 5</string>
+		<string>Lecture Theatre 6</string>
+		<string>Lecture Theatre 7</string>
+		<string>Lecture Theatre 7A</string>
+		<string>Lecture Theatre 8</string>
+		<string>Lecture Theatre 9</string>
+		<string>Lee Kong Chian Art Museum</string>
+		<string>Lee Kuan Yew School of Public Policy (Li Ka Shing)</string>
+		<string>Lee Kuan Yew School of Public Policy (Manasseh Meyer)</string>
+		<string>Lee Kuan Yew School of Public Policy (Oei Tiong Ham)</string>
+		<string>Lerk Thai Bistro</string>
+		<string>Life Sciences Institute (LSI)</string>
+	</array>
+	<key>M</key>
+	<array>
+		<string>MD1</string>
+		<string>MD10</string>
+		<string>MD11</string>
+		<string>MD2</string>
+		<string>MD3</string>
+		<string>MD4</string>
+		<string>MD4A</string>
+		<string>MD5</string>
+		<string>MD7</string>
+		<string>MD9</string>
+		<string>Maternal &amp; Child Health/Family Planning Services, Research &amp; Training</string>
+		<string>McDonald&apos;s</string>
+		<string>Mechatronics Programme</string>
+		<string>Medical Computing Research Lab</string>
+		<string>Megabites Cafe</string>
+		<string>Middle East Institute (MEI)</string>
+		<string>Minimally-Invasive Surgical Centre</string>
+		<string>Multimedia Analysis and Synthesis Lab</string>
+		<string>Multimedia Systems Lab</string>
+		<string>Munchie Monkey</string>
+		<string>Medical Library</string>
+		<string>Music Library</string>
+	</array>
+	<key>N</key>
+	<array>
+		<string>NUS Centre For the Arts</string>
+		<string>NUS Enterprise</string>
+		<string>NUS Entrepreneurship Centre</string>
+		<string>NUS Environmental Research Institute (NERI)</string>
+		<string>NUS Graduate School for Integrative Sciences &amp; Engineering</string>
+		<string>NUS Industry Liaison Office</string>
+		<string>NUS Nanoscience and Nanotechnology Initiative (E3)</string>
+		<string>NUS Nanoscience and Nanotechnology Initiative (S13)</string>
+		<string>NUS Overseas Colleges</string>
+		<string>NUS Publishing</string>
+		<string>NUS Society</string>
+		<string>NUS Staff Club</string>
+		<string>NUS Technology Holdings</string>
+		<string>NUS-Fudan Joint Graduate School</string>
+		<string>NUSSU Secretariat (Students&apos; Union)</string>
+		<string>National Hepatitis Quality Assurance Centre</string>
+		<string>National Malaria Reference Centre</string>
+		<string>National University Medical Institutes</string>
+		<string>Ng Eng Teng Gallery</string>
+		<string>North Tower</string>
+	</array>
+	<key>O</key>
+	<array>
+		<string>OCBC ATM (Near to LT9)</string>
+		<string>Occupational Health</string>
+		<string>Office of Admissions</string>
+		<string>Office of Alumni Relations</string>
+		<string>Office of Campus Security (House 17)</string>
+		<string>Office of Campus Security (House 18)</string>
+		<string>Office of Corporate Relations</string>
+		<string>Office of Environmental Sustainability</string>
+		<string>Office of Estate </string>
+		<string>Office of Financial Aid</string>
+		<string>Office of Financial Services</string>
+		<string>Office of Housing Services</string>
+		<string>Office of Human Resources</string>
+		<string>Office of Internal Audit</string>
+		<string>Office of Investment</string>
+		<string>Office of Legal Affairs</string>
+		<string>Office of Life Sciences</string>
+		<string>Office of Programmes (Faculty of Arts &amp; Social Sciences)</string>
+		<string>Office of Quality Management</string>
+		<string>Office of Research</string>
+		<string>Office of Resource Planning</string>
+		<string>Office of Risk Management</string>
+		<string>Office of Safety, Health </string>
+		<string>Office of Student Affairs</string>
+		<string>Office of the Deputy President (Administration)</string>
+		<string>Office of the Deputy President (Research </string>
+		<string>Office of the President</string>
+		<string>Office of the Provost</string>
+		<string>Office of the Vice President (Campus Infrastructure)</string>
+		<string>Office of the Vice President (University </string>
+		<string>Old Chang Kee</string>
+		<string>Orthopaedic Diagnostic Centre</string>
+	</array>
+	<key>P</key>
+	<array>
+		<string>Para-clinical Laboratory</string>
+		<string>Post Office</string>
+		<string>Pre-clinical Laboratory</string>
+		<string>Prince George&apos;s Park Residences</string>
+		<string>Professional Activities Centre (Faculty of Engineering)</string>
+		<string>Programming Languages &amp; Systems Research Lab 1</string>
+		<string>Protein and Proteomics Centre</string>
+	</array>
+	<key>R</key>
+	<array>
+		<string>Raffles Hall</string>
+		<string>Raffles Museum of Biodiversity Research</string>
+		<string>Reedz Cafe</string>
+		<string>Registrar&apos;s Office</string>
+		<string>Research </string>
+		<string>Research Centre of Excellence in Mechanobiology</string>
+		<string>Research in Human Reproduction</string>
+		<string>Ridge View Residences</string>
+		<string>Ridge View Tower Block</string>
+		<string>Risk Management Institute (RMI)</string>
+		<string>Residential College 3</string>
+		<string>Residential College 4</string>
+	</array>
+	<key>S</key>
+	<array>
+		<string>S1</string>
+		<string>S10</string>
+		<string>S11</string>
+		<string>S12</string>
+		<string>S13</string>
+		<string>S14</string>
+		<string>S15</string>
+		<string>S16</string>
+		<string>S17</string>
+		<string>S2</string>
+		<string>S3</string>
+		<string>S4</string>
+		<string>S4A</string>
+		<string>S5</string>
+		<string>S6</string>
+		<string>S7</string>
+		<string>S8</string>
+		<string>S9</string>
+		<string>S9A</string>
+		<string>SDE1</string>
+		<string>SDE2</string>
+		<string>SDE3</string>
+		<string>Sapore Italiano</string>
+		<string>Sapore @ The Thinking Corner</string>
+		<string>Saw Centre for Financial Studies</string>
+		<string>Saw Centre for Quantitative Finance</string>
+		<string>School of Computing (Dean&apos;s Office)</string>
+		<string>School of Design &amp; Environment (Dean&apos;s Office)</string>
+		<string>School of Medicine (Dean&apos;s Office)</string>
+		<string>Security Post (Bio-Sciences Complex)</string>
+		<string>Security Post (Blk ADM)</string>
+		<string>Security Post (E3A)</string>
+		<string>Security Post (Engineering Block)</string>
+		<string>Security Post (Office of Estate and Development)</string>
+		<string>Security Post (Prince George&apos;s Park)</string>
+		<string>Security Post (School of Business)</string>
+		<string>Security Post (University Hall)</string>
+		<string>Security Post (School of Computing)</string>
+		<string>Sensors Lab</string>
+		<string>Seven-Eleven Convenience Store</string>
+		<string>Shaw Foundation Alumni House Office of Alumni Relations</string>
+		<string>Sheares Hall</string>
+		<string>Singapore Centre for Applied and Policy Economics (SCAPE)</string>
+		<string>Singapore Institute for Clinical Sciences</string>
+		<string>Singapore Synchrotron Light Source (SSLS)</string>
+		<string>Singapore-MIT Alliance</string>
+		<string>Solar Energy Research Institute of Singapore (SERIS)</string>
+		<string>South </string>
+		<string>South Asian Studies Programme</string>
+		<string>Southeast Asian Studies Programme</string>
+		<string>Spinelli</string>
+		<string>Sports and Recreation Centre</string>
+		<string>Starbucks (Medicine)</string>
+		<string>Student Service Centre</string>
+		<string>Subway</string>
+		<string>Sun Asian Bistro</string>
+		<string>Surface Science Laboratory</string>
+		<string>South Tower</string>
+		<string>Subway (U-Town)</string>
+		<string>Sapore Italiano (U-Town)</string>
+		<string>Starbucks (U-Town)</string>
+		<string>Science Library</string>
+		<string>South &amp; Southeast Asian Art Gallery</string>
+	</array>
+	<key>T</key>
+	<array>
+		<string>Techno Edge Canteen</string>
+		<string>Technopreneurship Incubation Programme</string>
+		<string>Temasek Defence Systems Institute</string>
+		<string>Temasek Hall</string>
+		<string>Temasek Laboratories (TL@NUS)</string>
+		<string>Temasek Life Sciences Laboratory</string>
+		<string>The Deck Canteen</string>
+		<string>The Grinning Gecko</string>
+		<string>The Logistics Institute - Asia Pacific (TLI - Asia Pacific)</string>
+		<string>The Olive Cove</string>
+		<string>The Pavilion Cafe</string>
+		<string>The Summit</string>
+		<string>The Terrace Canteen</string>
+		<string>Tropical Marine Science Institute (TMSI)</string>
+		<string>Tembusu College</string>
+		<string>Tembusu West Learn Lobe</string>
+		<string>Tembusu Multi-Purpose Hall</string>
+		<string>The Ngee Ann Congsi Auditorium</string>
+		<string>Town Green</string>
+	</array>
+	<key>U</key>
+	<array>
+		<string>UOB ATMs (Block ADM)</string>
+		<string>UOB ATMs (S16, near Science Canteen)</string>
+		<string>University Cultural Centre</string>
+		<string>University Health Centre</string>
+		<string>University Scholars Programme</string>
+	</array>
+	<key>V</key>
+	<array>
+		<string>Visitors&apos; Lodge</string>
+	</array>
+	<key>W</key>
+	<array>
+		<string>WHO Collaborating Centres (Maternal </string>
+		<string>WHO Collaborating Centres (Occupational Health)</string>
+		<string>WHO Collaborating Centres (Research &amp; Training in Immunology)</string>
+		<string>WHO Collaborating Centres (Research in Human Reproduction)</string>
+	</array>
+	<key>Y</key>
+	<array>
+		<string>Ya Kun Kaya Toast</string>
+		<string>Yong Siew Toh Conservatory of Music</string>
+	</array>
+</dict>
+</plist>

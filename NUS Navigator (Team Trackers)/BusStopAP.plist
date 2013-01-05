@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>15131</key>
+	<string>Science Park</string>
+	<key>15139</key>
+	<string>Science Park</string>
+	<key>16161</key>
+	<string>OED</string>
+	<key>16169</key>
+	<string>OED</string>
+	<key>16171</key>
+	<string>YIH</string>
+	<key>16179</key>
+	<string>YIH</string>
+	<key>16181</key>
+	<string>Central Library</string>
+	<key>16189</key>
+	<string>Central Library</string>
+	<key>16191</key>
+	<string>
+	</string>
+	<key>16199</key>
+	<string>
+	</string>
+	<key>18221</key>
+	<string>NUH</string>
+	<key>18239</key>
+	<string>NUH</string>
+	<key>18339</key>
+	<string>NUH</string>
+	<key>18331</key>
+	<string>NUH</string>
+	<key>18301</key>
+	<string>LT29</string>
+	<key>18309</key>
+	<string>LT29</string>
+	<key>18311</key>
+	<string>University Hall</string>
+	<key>18319</key>
+	<string>University Hall</string>
+	<key>18321</key>
+	<string>SRC</string>
+	<key>18329</key>
+	<string>SRC</string>
+	<key>BL2</key>
+	<string>Biz2</string>
+	<key>BL3</key>
+	<string>Biz2</string>
+	<key>CD1</key>
+	<string>Biz1/COM1</string>
+	<key>DER2</key>
+	<string>
+	</string>
+	<key>DER3</key>
+	<string>
+	</string>
+	<key>ED1</key>
+	<string>
+	</string>
+	<key>KRD1</key>
+	<string>AS7</string>
+	<key>KRD2</key>
+	<string>AS7</string>
+	<key>KRD3</key>
+	<string>AS7</string>
+	<key>KRD4</key>
+	<string>LT13</string>
+	<key>KRD5</key>
+	<string>LT13</string>
+	<key>KV0</key>
+	<string>Kent Vale</string>
+	<key>PGP0</key>
+	<string>PGP Terminal</string>
+	<key>PGP1</key>
+	<string>House7</string>
+	<key>PGP2</key>
+	<string>House7</string>
+	<key>PGP3</key>
+	<string>House12</string>
+	<key>PGP4</key>
+	<string>House12</string>
+</dict>
+</plist>
