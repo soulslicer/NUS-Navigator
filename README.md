@@ -6,6 +6,8 @@
 
 ![ScreenShot](http://www.a-iats.com/App/logo.jpg)
 
+I apologize for the slightly disorganized code quality since this was rushed in 1 month for a competition (which i got 4th :D) but suffered poor coding practices as a result :(
+
 ### Why NUS Navigator ###
 
 NUS Navigator has a very intuitive interface. You can easily add multiple locations to the map, tap and hold to select a point, see the actual NUS Map within Google Maps itself (meaning more accuracy). You can even find the route between any two points, whether you are driving or taking the shuttle Bus.
